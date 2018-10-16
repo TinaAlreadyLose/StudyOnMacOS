@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	text-align: center;
+}
+.main{
+	width:800px;
+	background-color:antiquewhite;
+	position: relative;
+	margin: auto;
+}
+.top{
+	height:100px;
+	background-color: aqua;
+}
+.menu{
+	height: 32px;
+	padding-top: 10px;
+	background-color:yellow;
+}
+.left{
+	width: 180px;
+	height: 500px;
+	float: left;
+	background-color:brown;
+}
+.right{
+	width: 800px;
+	height: 500px;
+/*	float: left;*/
+	background-color: cadetblue;
+}
+.bottom{
+	padding-top: 10px;
+	height: 30px;
+	background-color: chartreuse;
+}
+.image{
+	height: 100px;
+	width: 150px;
+	float: left;
+}
+.toph1{
+	margin-top: 20px;
+}
