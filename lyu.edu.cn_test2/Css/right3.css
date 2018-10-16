@@ -1,0 +1,12 @@
+table{
+    border-width: 2mm 1mm 2mm 1mm ; /*边框大小*/
+    border-color: cornflowerblue orangered cornflowerblue orangered;/*边框颜色*/
+    border-style:double dashed double dashed;/*边框类型*/
+    border-collapse: collapse;
+}
+td,th {
+    border: 1px black solid;
+    border-spacing: 4pt;
+    text-align: center;
+    padding: 2mm 1mm 2mm 1mm;
+}

@@ -20,15 +20,15 @@ body{
 }
 .left{
 	width: 180px;
-	height: 500px;
+	height: 700px;
 	float: left;
-	background-color:brown;
+	background-color:brown;s
 }
 .right{
 	width: 800px;
-	height: 500px;
+	height: 700px;
 /*	float: left;*/
-	background-color: cadetblue;
+	/*background-color: cadetblue;*/
 }
 .bottom{
 	padding-top: 10px;
