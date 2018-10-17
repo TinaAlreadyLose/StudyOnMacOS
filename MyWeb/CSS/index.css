@@ -1,0 +1,88 @@
+body{
+    text-align: center;
+    background-color:whitesmoke;
+    margin: 0px;
+}
+.blank_of_black{
+    width: 100%;
+    height: 3px;
+    background-color: black;
+}
+.main{
+    margin: auto;
+    width: 75%;
+    height: auto;
+    background-color: beige;
+}
+/*一般浮动是什么情况呢？一般是一个盒子里使用了CSS float浮动属性，导致父级对象盒子不能被撑开，这样CSS float浮动就产生了*/
+/*三种方式*/
+/*
+*1、对父级设置适合CSS高度
+*对父级设置适合高度样式清除浮动，这里对“.divcss5”设置一定高度即可，一般设置高度需要能确定内容高度才能设置。这里我们知道内容高度是100PX+上下边框为2px，这样具体父级高度为102px
+*2.clear:both清除浮动
+*为了统一样式，我们新建一个样式选择器CSS命名为“.clear”，并且对应选择器样式为“clear:both”，然后我们在父级“</div>”结束前加此div引入“class="clear"”样式。这样即可清除浮动。
+*3.父级div定义 overflow:hidden
+*对父级CSS选择器加overflow:hidden样式，可以清除父级内使用float产生浮动。优点是可以很少CSS代码即可解决浮动产生。
+*/
+.left{
+    width: 15%;
+    position: relative;
+    float:left;
+    background-color: red;
+    margin-right: 1%;
+}
+.right{
+    width: 84%;
+    position: relative;
+    float: left;
+    height: 1700px;
+    background-color: aqua;
+}
+.bottom{
+    clear: both;
+    background-color:goldenrod;
+}
+
+.introduce{
+    width: 100%;
+    height: 370px;
+    background-color: snow;
+}
+
+.contactMe{
+    width: 11%;
+    height: 440px;
+    margin-top:10px;
+    position: fixed;
+}
+.introduceName{
+    width: inherit;
+    height: 120px;
+    background-color: black;
+    color: white;
+    padding-top: 7px;
+}
+.detailIntroduce{
+    width: inherit;
+    height:250px;
+}
+.contactMe_aboutme{
+    width: 100%;
+    height: 185px;
+    background-color: red;
+}
+.contactMe_RSS{
+    width: 100%;
+    height: 35px;
+    background-color: goldenrod;
+}
+.contactMe_myblogs{
+    width: 100%;
+    height: 110px;
+    background: purple;
+}
+.contactMe_others{
+    width: 100%;
+    height: 110px;
+    background-color: aqua;
+}
