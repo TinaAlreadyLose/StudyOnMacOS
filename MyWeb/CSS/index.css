@@ -1,3 +1,11 @@
+/*
+ *1、所有的字体的高度与宽度都要设计成百分比
+ *
+ *
+ */
+
+
+
 body{
     text-align: center;
     background-color:lightgray;
