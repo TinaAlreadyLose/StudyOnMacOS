@@ -4,24 +4,41 @@
  *
  */
 
-
-
 body{
     text-align: center;
     background-color:lightgray;
     margin: 0px;
 }
+a:link{
+    /*定义正常的超链接*/
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    /*访问过的网站*/
+    color: red;
+    text-decoration: underline;
+}
+a:hover{
+    /*悬停时的颜色*/
+    color: blue;
+    text-decoration: none;
+}
+a:active{
+    /*点击时的颜色*/
+    color: red;
+    text-decoration: underline;
+}
 .blank_of_black{
     width: 100%;
     height: 3px;
-    position: fixed;
     background-color: black;
 }
 .main{
     margin: auto;
     width: 75%;
     height: auto;
-    background-color: beige;
+    background-color: lightgray;
 }
 /*一般浮动是什么情况呢？一般是一个盒子里使用了CSS float浮动属性，导致父级对象盒子不能被撑开，这样CSS float浮动就产生了*/
 /*三种方式*/
@@ -45,7 +62,7 @@ body{
     position: relative;
     float: right;
     height: auto;
-    background-color: snow;
+    background-color: lightgray;
     margin-top: 3px;
 }
 .bottom{
@@ -59,12 +76,15 @@ body{
     width: 100%;
     height: 370px;
     background-color: snow;
+    border: outset;
+    border-top:solid;
 }
 
 .contactMe{
     width:100%;
     height: 440px;
     margin-top:10px;
+    border: outset;
   /*  position: fixed;*/
 }
 .introduceName{
@@ -73,24 +93,27 @@ body{
     background-color: black;
     color: snow;
     padding-top: 7px;
+
 }
 .detailIntroduce{
     width: inherit;
     height:250px;
+    text-align: left;
+    margin-top: 10%;
 }
 .contactMe_aboutme{
     width: inherit;
-    height: 185px;
+    height: 175px;
     background-color: red;
 }
 .contactMe_RSS{
     width: inherit;
-    height: 35px;
+    height: 40px;
     background-color: goldenrod;
 }
 .contactMe_myblogs{
     width: inherit;
-    height: 110px;
+    height: 115px;
     background: purple;
 }
 .contactMe_others{
@@ -99,15 +122,65 @@ body{
     background-color: aqua;
 }
 .right_divs{
-    width: 90%;
-    background-color: red;
+    width: 100%;
+    background-color: snow;
     margin: auto;
     margin-bottom: 10px;
 }
 .right_divs_top{
-    margin-top:50px;
-    height: 300px;
+    border: outset;
+    margin-top:20px;
+    height: 1000px;
 }
 .right_divs_others{
+    border: outset;
     height: 200px;
+}
+.right_divs_others:hover{
+    background-color: lightyellow;
+}
+.right_divs_top_a{
+    padding-top: 20px;
+}
+right_divs_others_a{
+
+}
+.right_img_top{
+    margin-top: 20px        ;
+    width: 90%;
+    height: 70%;
+}
+.right_detail_introduce{
+    width: 90%;
+    margin: auto;
+    text-align: left;
+    text-indent: 2em;
+}
+.right_divs_others_photo{
+    width: 30%;
+    height: 100%;
+    position: relative;
+    float: left;
+}
+.right_divs_others_img{
+    width: 80%;
+    height: 80%;
+    margin: 5% 10% 5% 10% ;
+}
+.detailIntroduce_all{
+    width: 100%;
+    height: 12%;
+    /*background-color: blue;*/
+    margin-bottom: 1%;
+}
+.detailIntroduce_all:hover{
+    background-color: lightgray;
+}
+.detailIntroduce_img{
+    margin-left: 10%;
+    margin-right: 3%;
+    width: 10%;
+    height: 100%;
+    position: relative;
+    float: left;
 }
