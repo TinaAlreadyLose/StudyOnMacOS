@@ -33,10 +33,11 @@ a:active{
     width: 100%;
     height: 3px;
     background-color: black;
+    position: fixed;
 }
 .main{
     margin: auto;
-    width: 75%;
+    width: 1500px;
     height: auto;
     background-color: lightgray;
 }
@@ -79,13 +80,12 @@ a:active{
     border: outset;
     border-top:solid;
 }
-
 .contactMe{
     width:100%;
     height: 440px;
     margin-top:10px;
     border: outset;
-  /*  position: fixed;*/
+    background-color: snow;
 }
 .introduceName{
     width: 100%;
@@ -104,22 +104,25 @@ a:active{
 .contactMe_aboutme{
     width: inherit;
     height: 175px;
-    background-color: red;
+   /* background-color: red;*/
+    border-bottom: solid lightgray;
 }
 .contactMe_RSS{
     width: inherit;
     height: 40px;
-    background-color: goldenrod;
+  /*  background-color: goldenrod;*/
+    border-bottom: solid lightgray;
 }
 .contactMe_myblogs{
     width: inherit;
     height: 115px;
-    background: purple;
+    /*background: purple;*/
+    border-bottom: solid lightgray;
 }
 .contactMe_others{
     width: inherit;
     height: 110px;
-    background-color: aqua;
+   /* background-color: aqua;*/
 }
 .right_divs{
     width: 100%;
@@ -129,7 +132,7 @@ a:active{
 }
 .right_divs_top{
     border: outset;
-    margin-top:20px;
+    margin-bottom:20px;
     height: 1000px;
 }
 .right_divs_others{
