@@ -1,0 +1,85 @@
+body{
+    text-align: center;
+    background-color: lightgray;
+    margin: 0;
+}
+a:link{
+    /*定义正常的超链接*/
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    /*访问过的网站*/
+    color: red;
+    text-decoration: underline;
+}
+a:hover{
+    /*悬停时的颜色*/
+    color: blue;
+    text-decoration: none;
+}
+a:active{
+    /*点击时的颜色*/
+    color: red;
+    text-decoration: underline;
+}
+image {
+    width: 90%;
+    height: 100%;
+}
+.main{
+    margin: auto;
+    width: 1300px;
+}
+.left{
+    width: 13%;
+    background-color: snow;
+    height: 430px;
+    position: fixed;
+    border: outset;
+
+}
+.right{
+    width: 80%;
+    position:relative;
+    float: right;
+}
+.left_top{
+    color: snow;
+    background-color: black;
+    margin: 0px;
+    padding: 10% 0% 10% 0%;
+}
+.left_bottom{
+    margin-top: 20%;
+    padding-left: 20%;
+    margin-bottom: 5%;
+    text-align: left;
+    font-size: 20px;
+}
+.right_detail{
+    margin-bottom: 20px;
+    background-color: snow;
+    border: outset;
+    width: 100%;
+    height: 250px;
+}
+.right_img{
+    height: 100%;
+    width: 30%;
+    position: relative;
+    float: left;
+}
+.right_message{
+    height: 100%;
+    width: 70%;
+    background-color: snow;
+    position: relative;
+    float: left;
+}
+.right_detail_message{
+    text-align: left;
+    margin-left: 3%;
+    font-size: 18px;
+    text-indent: 2em;
+}
