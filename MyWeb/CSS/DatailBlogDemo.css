@@ -83,3 +83,10 @@ image {
     font-size: 18px;
     text-indent: 2em;
 }
+.div_pre{
+    width: 100%;
+    text-align: left;
+    text-indent: 2em;
+    background-color: snow;
+    border: outset;
+}

@@ -68,7 +68,8 @@ a:active{
 }
 .bottom{
     clear: both;
-    background-color:goldenrod;
+    background-color:snow;
+    color: lightgray;
 }
 .left_fixed{
     position: fixed;
