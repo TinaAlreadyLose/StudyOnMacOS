@@ -1,0 +1,623 @@
+{
+    "result": "SUCCESS",
+    "code": 200,
+    "data": {
+        "songListId": "2462790889",
+        "songListName": "YY音乐榜",
+        "songListPic": "http://p2.music.126.net/KsCsZ2l8GrqP55CTSX0CUQ==/109951163596271675.jpg",
+        "songListCount": "76",
+        "songListPlayCount": "614173",
+        "songListDescription": "网易云音乐xYY音乐联合榜单。榜单综合考量播放、红心、分享等多维度，其中播放权重为60%。特别地，使用鲸云音效播放单曲1次，计为播放5次，我们鼓励使用鲸云音效收听主播单曲。在任一单曲播放页，点击鲸鱼尾巴图标，即可使用鲸云音效。此榜单与YY直播音乐人榜单累计总分决定YY音乐人计划最终排名。\n特别说明： ● 歌曲从头到尾完整播放计为1个播放量，中间不可快进、跳过； ● 必须登录网易云音乐账号，在网易云音乐App\\Web\\PC端内播放歌曲，游客听歌数据不计入最终结果； ● 榜单已针对恶意刷榜进行实时监测，对于非正常行为将进行过滤处理。",
+        "songListUserId": "377744215",
+        "songs": [
+            {
+                "id": "554191055",
+                "name": "学猫叫",
+                "singer": "小潘潘",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=554191055&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=554191055&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=554191055&key=579621905"
+            },
+            {
+                "id": "426852531",
+                "name": "太迟",
+                "singer": "于小冉",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=426852531&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=426852531&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=426852531&key=579621905"
+            },
+            {
+                "id": "477933312",
+                "name": "算了",
+                "singer": "崔阿扎",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=477933312&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=477933312&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=477933312&key=579621905"
+            },
+            {
+                "id": "27927368",
+                "name": "孟婆的碗",
+                "singer": "魏佳艺",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=27927368&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=27927368&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=27927368&key=579621905"
+            },
+            {
+                "id": "551339307",
+                "name": "你到底哪里好",
+                "singer": "吾尊",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=551339307&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=551339307&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=551339307&key=579621905"
+            },
+            {
+                "id": "515822167",
+                "name": "情面",
+                "singer": "王冕",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=515822167&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=515822167&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=515822167&key=579621905"
+            },
+            {
+                "id": "1309896216",
+                "name": "想象",
+                "singer": "摩登兄弟刘宇宁",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1309896216&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1309896216&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1309896216&key=579621905"
+            },
+            {
+                "id": "1313897374",
+                "name": "花落雨巷",
+                "singer": "涩宝儿",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313897374&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313897374&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313897374&key=579621905"
+            },
+            {
+                "id": "864100225",
+                "name": "有何不可",
+                "singer": "蔡菲凡",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=864100225&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=864100225&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=864100225&key=579621905"
+            },
+            {
+                "id": "557407010",
+                "name": "朋友不多",
+                "singer": "木梳",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=557407010&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=557407010&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=557407010&key=579621905"
+            },
+            {
+                "id": "1315821067",
+                "name": "最后一杯",
+                "singer": "雷子",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315821067&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315821067&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315821067&key=579621905"
+            },
+            {
+                "id": "557581521",
+                "name": "吻爱",
+                "singer": "芮甜甜",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=557581521&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=557581521&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=557581521&key=579621905"
+            },
+            {
+                "id": "423776241",
+                "name": "别丢下我不管",
+                "singer": "风小筝",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=423776241&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=423776241&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=423776241&key=579621905"
+            },
+            {
+                "id": "544151816",
+                "name": "一起去环游",
+                "singer": "孙艺程",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=544151816&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=544151816&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=544151816&key=579621905"
+            },
+            {
+                "id": "574925925",
+                "name": "三个字告白",
+                "singer": "文静",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=574925925&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=574925925&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=574925925&key=579621905"
+            },
+            {
+                "id": "500080027",
+                "name": "课间",
+                "singer": "霹雳爷们儿",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=500080027&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=500080027&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=500080027&key=579621905"
+            },
+            {
+                "id": "1303019479",
+                "name": " 我要变好看 ",
+                "singer": "阿涵",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1303019479&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1303019479&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1303019479&key=579621905"
+            },
+            {
+                "id": "865403418",
+                "name": "追梦人",
+                "singer": "张津涤",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=865403418&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=865403418&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=865403418&key=579621905"
+            },
+            {
+                "id": "513360916",
+                "name": "假面",
+                "singer": "田子晴",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=513360916&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=513360916&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=513360916&key=579621905"
+            },
+            {
+                "id": "1297750523",
+                "name": "我们的倔强",
+                "singer": "陈皓",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1297750523&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1297750523&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1297750523&key=579621905"
+            },
+            {
+                "id": "1313897655",
+                "name": "别念旧",
+                "singer": "小六月",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313897655&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313897655&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313897655&key=579621905"
+            },
+            {
+                "id": "1303059740",
+                "name": "习惯而已",
+                "singer": "小叉系",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1303059740&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1303059740&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1303059740&key=579621905"
+            },
+            {
+                "id": "534544061",
+                "name": "一个人安静的生活",
+                "singer": "夏玲美",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=534544061&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=534544061&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=534544061&key=579621905"
+            },
+            {
+                "id": "495220402",
+                "name": "只有一个你",
+                "singer": "门门",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=495220402&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=495220402&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=495220402&key=579621905"
+            },
+            {
+                "id": "1304974373",
+                "name": "江山不如君",
+                "singer": "陈善仪",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1304974373&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1304974373&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1304974373&key=579621905"
+            },
+            {
+                "id": "34516439",
+                "name": "某某某某",
+                "singer": "程小小",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=34516439&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=34516439&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=34516439&key=579621905"
+            },
+            {
+                "id": "573583515",
+                "name": "感觉爱",
+                "singer": "舒俊陶",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=573583515&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=573583515&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=573583515&key=579621905"
+            },
+            {
+                "id": "1308081536",
+                "name": "对你比心",
+                "singer": "阮妍霏",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1308081536&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1308081536&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1308081536&key=579621905"
+            },
+            {
+                "id": "570086241",
+                "name": "一半一半",
+                "singer": "王丽拉",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=570086241&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=570086241&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=570086241&key=579621905"
+            },
+            {
+                "id": "569785162",
+                "name": "再见了 我最亲爱的",
+                "singer": "小水",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=569785162&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=569785162&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=569785162&key=579621905"
+            },
+            {
+                "id": "30251329",
+                "name": "一个人两个人三个人",
+                "singer": "金晓纯",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=30251329&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=30251329&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=30251329&key=579621905"
+            },
+            {
+                "id": "33004503",
+                "name": "盐不及泪咸  ",
+                "singer": "沈曼",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=33004503&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=33004503&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=33004503&key=579621905"
+            },
+            {
+                "id": "1297742622",
+                "name": "爱，深居简出",
+                "singer": "胡芳芳",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1297742622&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1297742622&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1297742622&key=579621905"
+            },
+            {
+                "id": "506986593",
+                "name": "久违了",
+                "singer": "韩毅",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=506986593&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=506986593&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=506986593&key=579621905"
+            },
+            {
+                "id": "1313052249",
+                "name": "不必掩饰",
+                "singer": "卡卡",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313052249&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313052249&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313052249&key=579621905"
+            },
+            {
+                "id": "1307789305",
+                "name": "梦游",
+                "singer": "东方",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1307789305&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1307789305&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1307789305&key=579621905"
+            },
+            {
+                "id": "33510394",
+                "name": "皇帝的新装",
+                "singer": "鸿涛",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=33510394&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=33510394&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=33510394&key=579621905"
+            },
+            {
+                "id": "1316562088",
+                "name": "不完美的结局",
+                "singer": "郎花花",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1316562088&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1316562088&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1316562088&key=579621905"
+            },
+            {
+                "id": "1312259648",
+                "name": "我们的爱情",
+                "singer": "贰捌乐队",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1312259648&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1312259648&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1312259648&key=579621905"
+            },
+            {
+                "id": "557754023",
+                "name": "时过境迁",
+                "singer": "宋浩铭",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=557754023&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=557754023&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=557754023&key=579621905"
+            },
+            {
+                "id": "1316375456",
+                "name": "余生还长",
+                "singer": "麦兜兄弟",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1316375456&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1316375456&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1316375456&key=579621905"
+            },
+            {
+                "id": "557583778",
+                "name": " 一个人过",
+                "singer": "爱飞飞",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=557583778&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=557583778&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=557583778&key=579621905"
+            },
+            {
+                "id": "31477226",
+                "name": "今生路",
+                "singer": "土哥云姐",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=31477226&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=31477226&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=31477226&key=579621905"
+            },
+            {
+                "id": "529527944",
+                "name": "那时·那事",
+                "singer": "姜茂达",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=529527944&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=529527944&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=529527944&key=579621905"
+            },
+            {
+                "id": "551339478",
+                "name": "我永远的兄弟",
+                "singer": "阿伸",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=551339478&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=551339478&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=551339478&key=579621905"
+            },
+            {
+                "id": "562597154",
+                "name": "小城姑娘",
+                "singer": "蛋总",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=562597154&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=562597154&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=562597154&key=579621905"
+            },
+            {
+                "id": "487375121",
+                "name": "梦",
+                "singer": "凌希",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=487375121&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=487375121&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=487375121&key=579621905"
+            },
+            {
+                "id": "519913399",
+                "name": "重生的蔷薇",
+                "singer": "苏惟",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=519913399&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=519913399&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=519913399&key=579621905"
+            },
+            {
+                "id": "1309901046",
+                "name": "粘着你",
+                "singer": "崔洋",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1309901046&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1309901046&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1309901046&key=579621905"
+            },
+            {
+                "id": "571545511",
+                "name": "我的下雨天",
+                "singer": "小丸子",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=571545511&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=571545511&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=571545511&key=579621905"
+            },
+            {
+                "id": "529814592",
+                "name": "花城泪",
+                "singer": "黄艺可",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=529814592&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=529814592&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=529814592&key=579621905"
+            },
+            {
+                "id": "554055825",
+                "name": "炙热的酒",
+                "singer": "yy小青岛",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=554055825&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=554055825&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=554055825&key=579621905"
+            },
+            {
+                "id": "536622577",
+                "name": "再爱有什么用",
+                "singer": "曹晋",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=536622577&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=536622577&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=536622577&key=579621905"
+            },
+            {
+                "id": "1297743935",
+                "name": "伤心不分白天黑夜",
+                "singer": "红蝎子",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1297743935&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1297743935&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1297743935&key=579621905"
+            },
+            {
+                "id": "500665834",
+                "name": "每个男人",
+                "singer": "宫俊",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=500665834&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=500665834&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=500665834&key=579621905"
+            },
+            {
+                "id": "1299563346",
+                "name": "我和幸福只差一个你",
+                "singer": "胖胖",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1299563346&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1299563346&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1299563346&key=579621905"
+            },
+            {
+                "id": "516823301",
+                "name": "Honey",
+                "singer": "亦笙",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=516823301&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=516823301&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=516823301&key=579621905"
+            },
+            {
+                "id": "1309124509",
+                "name": "可能没法讲",
+                "singer": "醉醉",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1309124509&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1309124509&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1309124509&key=579621905"
+            },
+            {
+                "id": "534066194",
+                "name": "誓言和梦",
+                "singer": "梧桐是海",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=534066194&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=534066194&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=534066194&key=579621905"
+            },
+            {
+                "id": "864100038",
+                "name": "男友力MAX",
+                "singer": "黄钊艺",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=864100038&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=864100038&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=864100038&key=579621905"
+            },
+            {
+                "id": "509726678",
+                "name": "爱的近距离 ",
+                "singer": "子旭",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=509726678&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=509726678&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=509726678&key=579621905"
+            },
+            {
+                "id": "1315602959",
+                "name": "来时归途",
+                "singer": "李哲",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315602959&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315602959&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315602959&key=579621905"
+            },
+            {
+                "id": "399406058",
+                "name": "恨别离",
+                "singer": "艺枫",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=399406058&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=399406058&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=399406058&key=579621905"
+            },
+            {
+                "id": "543986447",
+                "name": "让爱升级5.2.0",
+                "singer": "赫拉",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=543986447&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=543986447&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=543986447&key=579621905"
+            },
+            {
+                "id": "516819364",
+                "name": "换位",
+                "singer": "程冯冯",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=516819364&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=516819364&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=516819364&key=579621905"
+            },
+            {
+                "id": "1313132566",
+                "name": "共享充电宝",
+                "singer": "小凯文",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313132566&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313132566&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313132566&key=579621905"
+            },
+            {
+                "id": "1316563095",
+                "name": "记忆的黑夜",
+                "singer": "阳阳",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1316563095&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1316563095&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1316563095&key=579621905"
+            },
+            {
+                "id": "866049092",
+                "name": "真的爱上你",
+                "singer": "小迪",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=866049092&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=866049092&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=866049092&key=579621905"
+            },
+            {
+                "id": "567167422",
+                "name": "青春旅行",
+                "singer": "何亦航",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=567167422&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=567167422&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=567167422&key=579621905"
+            },
+            {
+                "id": "1301895575",
+                "name": "幻想症",
+                "singer": "布丁豆丁",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1301895575&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1301895575&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1301895575&key=579621905"
+            },
+            {
+                "id": "482441805",
+                "name": "透明人",
+                "singer": "李上",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=482441805&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=482441805&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=482441805&key=579621905"
+            },
+            {
+                "id": "471374320",
+                "name": "几年",
+                "singer": "隋艺",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=471374320&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=471374320&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=471374320&key=579621905"
+            },
+            {
+                "id": "32785483",
+                "name": "哪儿也不去",
+                "singer": "龙龙哟",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=32785483&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=32785483&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=32785483&key=579621905"
+            },
+            {
+                "id": "1313402529",
+                "name": "谁是英雄",
+                "singer": "璟璟",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313402529&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313402529&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313402529&key=579621905"
+            },
+            {
+                "id": "1316562074",
+                "name": "爱的代驾",
+                "singer": "啊橙",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1316562074&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1316562074&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1316562074&key=579621905"
+            },
+            {
+                "id": "477909392",
+                "name": "破晓的第一道光芒",
+                "singer": "Hch相守",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=477909392&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=477909392&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=477909392&key=579621905"
+            }
+        ]
+    }
+}

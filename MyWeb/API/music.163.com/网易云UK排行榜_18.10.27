@@ -1,0 +1,807 @@
+{
+    "result": "SUCCESS",
+    "code": 200,
+    "data": {
+        "songListId": "180106",
+        "songListName": "UK排行榜周榜",
+        "songListPic": "http://p2.music.126.net/VQOMRRix9_omZbg4t-pVpw==/18930291695438269.jpg",
+        "songListCount": "99",
+        "songListPlayCount": "77661856",
+        "songListDescription": "UK排行榜",
+        "songListUserId": "48333",
+        "songs": [
+            {
+                "id": "1302091180",
+                "name": "Promises",
+                "singer": "Calvin Harris",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1302091180&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1302091180&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1302091180&key=579621905"
+            },
+            {
+                "id": "1315398144",
+                "name": "Funky Friday",
+                "singer": "Dave",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315398144&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315398144&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315398144&key=579621905"
+            },
+            {
+                "id": "1302290019",
+                "name": "Happier",
+                "singer": "Marshmello",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1302290019&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1302290019&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1302290019&key=579621905"
+            },
+            {
+                "id": "1313096578",
+                "name": "Shallow",
+                "singer": "Lady Gaga",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313096578&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313096578&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313096578&key=579621905"
+            },
+            {
+                "id": "1317251063",
+                "name": "Woman Like Me",
+                "singer": "Little Mix",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1317251063&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1317251063&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1317251063&key=579621905"
+            },
+            {
+                "id": "1311209054",
+                "name": "Let You Love Me",
+                "singer": "Rita Ora",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1311209054&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1311209054&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1311209054&key=579621905"
+            },
+            {
+                "id": "1308008283",
+                "name": "I Love It",
+                "singer": "Kanye West",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1308008283&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1308008283&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1308008283&key=579621905"
+            },
+            {
+                "id": "541687772",
+                "name": "In My Mind",
+                "singer": "Dynoro",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=541687772&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=541687772&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=541687772&key=579621905"
+            },
+            {
+                "id": "1307789267",
+                "name": "Electricity",
+                "singer": "Silk City",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1307789267&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1307789267&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1307789267&key=579621905"
+            },
+            {
+                "id": "1301777420",
+                "name": "All I Am",
+                "singer": "Jess Glynne",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1301777420&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1301777420&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1301777420&key=579621905"
+            },
+            {
+                "id": "1317089738",
+                "name": "ZEZE",
+                "singer": "Kodak Black",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1317089738&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1317089738&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1317089738&key=579621905"
+            },
+            {
+                "id": "516587855",
+                "name": "Lost Without You",
+                "singer": "Freya Ridings",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=516587855&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=516587855&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=516587855&key=579621905"
+            },
+            {
+                "id": "1316526753",
+                "name": "MIA ",
+                "singer": "Bad Bunny",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1316526753&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1316526753&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1316526753&key=579621905"
+            },
+            {
+                "id": "1307789419",
+                "name": "Just Got Paid",
+                "singer": "Sigala",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1307789419&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1307789419&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1307789419&key=579621905"
+            },
+            {
+                "id": "574927251",
+                "name": "Be Alright",
+                "singer": "Dean Lewis",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=574927251&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=574927251&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=574927251&key=579621905"
+            },
+            {
+                "id": "574963920",
+                "name": "Eastside",
+                "singer": "Benny Blanco",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=574963920&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=574963920&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=574963920&key=579621905"
+            },
+            {
+                "id": "1306726873",
+                "name": "Back & Forth",
+                "singer": "MK",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1306726873&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1306726873&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1306726873&key=579621905"
+            },
+            {
+                "id": "562181972",
+                "name": "High Hopes",
+                "singer": "Panic! At The Disco",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=562181972&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=562181972&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=562181972&key=579621905"
+            },
+            {
+                "id": "1311366103",
+                "name": "No Stylist",
+                "singer": "French Montana",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1311366103&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1311366103&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1311366103&key=579621905"
+            },
+            {
+                "id": "545884135",
+                "name": "Shotgun",
+                "singer": "George Ezra",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=545884135&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=545884135&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=545884135&key=579621905"
+            },
+            {
+                "id": "1313308133",
+                "name": "Taki Taki",
+                "singer": "DJ Snake",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313308133&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313308133&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313308133&key=579621905"
+            },
+            {
+                "id": "1309689297",
+                "name": "Better",
+                "singer": "Khalid",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1309689297&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1309689297&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1309689297&key=579621905"
+            },
+            {
+                "id": "1311535712",
+                "name": "Venom (Music From The Motion Picture)",
+                "singer": "Eminem",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1311535712&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1311535712&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1311535712&key=579621905"
+            },
+            {
+                "id": "1316382483",
+                "name": "Thursday",
+                "singer": "Jess Glynne",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1316382483&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1316382483&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1316382483&key=579621905"
+            },
+            {
+                "id": "569214321",
+                "name": "Girls Like You",
+                "singer": "Maroon 5",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=569214321&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=569214321&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=569214321&key=579621905"
+            },
+            {
+                "id": "1300594230",
+                "name": "breathin",
+                "singer": "Ariana Grande",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1300594230&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1300594230&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1300594230&key=579621905"
+            },
+            {
+                "id": "1315367060",
+                "name": "Without Me",
+                "singer": "Halsey",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315367060&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315367060&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315367060&key=579621905"
+            },
+            {
+                "id": "1304399711",
+                "name": "Goodbye",
+                "singer": "Jason DeRulo",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1304399711&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1304399711&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1304399711&key=579621905"
+            },
+            {
+                "id": "1299557877",
+                "name": "Thunderclouds",
+                "singer": "LSD",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1299557877&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1299557877&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1299557877&key=579621905"
+            },
+            {
+                "id": "515816187",
+                "name": "Body",
+                "singer": "Loud Luxury",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=515816187&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=515816187&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=515816187&key=579621905"
+            },
+            {
+                "id": "1315441719",
+                "name": "Always Remember Us This Way",
+                "singer": "Lady Gaga",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315441719&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315441719&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315441719&key=579621905"
+            },
+            {
+                "id": "1296626262",
+                "name": "Ay Caramba",
+                "singer": "Fredo",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1296626262&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1296626262&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1296626262&key=579621905"
+            },
+            {
+                "id": "1310906489",
+                "name": "Falling Down",
+                "singer": "lil peep",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1310906489&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1310906489&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1310906489&key=579621905"
+            },
+            {
+                "id": "1315441728",
+                "name": "I'll Never Love Again (Film Version)",
+                "singer": "Lady Gaga",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315441728&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315441728&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315441728&key=579621905"
+            },
+            {
+                "id": "574922332",
+                "name": "Best Life",
+                "singer": "Hardy Caprio",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=574922332&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=574922332&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=574922332&key=579621905"
+            },
+            {
+                "id": "1308737094",
+                "name": "Drip Too Hard",
+                "singer": "Lil Baby",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1308737094&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1308737094&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1308737094&key=579621905"
+            },
+            {
+                "id": "1306386506",
+                "name": "Lucky You",
+                "singer": "Eminem",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1306386506&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1306386506&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1306386506&key=579621905"
+            },
+            {
+                "id": "562494194",
+                "name": "Taste",
+                "singer": "Tyga",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=562494194&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=562494194&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=562494194&key=579621905"
+            },
+            {
+                "id": "553579773",
+                "name": "Baby Shark",
+                "singer": "Foozlebots",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=553579773&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=553579773&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=553579773&key=579621905"
+            },
+            {
+                "id": "1309438371",
+                "name": "Advice",
+                "singer": "Cadet",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1309438371&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1309438371&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1309438371&key=579621905"
+            },
+            {
+                "id": "1311076476",
+                "name": "Killshot",
+                "singer": "Eminem",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1311076476&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1311076476&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1311076476&key=579621905"
+            },
+            {
+                "id": "551970360",
+                "name": "Youngblood",
+                "singer": "5 Seconds of Summer",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=551970360&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=551970360&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=551970360&key=579621905"
+            },
+            {
+                "id": "1298111231",
+                "name": "Beautiful",
+                "singer": "Bazzi",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1298111231&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1298111231&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1298111231&key=579621905"
+            },
+            {
+                "id": "547969474",
+                "name": "lucid dreams (prod. nick mira)",
+                "singer": "Juice WRLD",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=547969474&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=547969474&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=547969474&key=579621905"
+            },
+            {
+                "id": "574926602",
+                "name": "In My Feelings",
+                "singer": "Drake",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=574926602&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=574926602&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=574926602&key=579621905"
+            },
+            {
+                "id": "515535829",
+                "name": "This Is Me",
+                "singer": "Keala Settle",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=515535829&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=515535829&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=515535829&key=579621905"
+            },
+            {
+                "id": "1297742695",
+                "name": "Trip",
+                "singer": "Ella Mai",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1297742695&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1297742695&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1297742695&key=579621905"
+            },
+            {
+                "id": "1309901276",
+                "name": "Unknown T",
+                "singer": "Unknown T",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1309901276&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1309901276&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1309901276&key=579621905"
+            },
+            {
+                "id": "574922289",
+                "name": "All For You",
+                "singer": "Years & Years",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=574922289&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=574922289&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=574922289&key=579621905"
+            },
+            {
+                "id": "555974038",
+                "name": "Better Now",
+                "singer": "Post Malone",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=555974038&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=555974038&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=555974038&key=579621905"
+            },
+            {
+                "id": "1314780499",
+                "name": "1999",
+                "singer": "Charli XCX",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1314780499&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1314780499&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1314780499&key=579621905"
+            },
+            {
+                "id": "865861178",
+                "name": "God is a woman",
+                "singer": "Ariana Grande",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=865861178&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=865861178&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=865861178&key=579621905"
+            },
+            {
+                "id": "549800783",
+                "name": "One Kiss",
+                "singer": "Calvin Harris",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=549800783&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=549800783&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=549800783&key=579621905"
+            },
+            {
+                "id": "567145750",
+                "name": "Rise",
+                "singer": "Jonas Blue",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=567145750&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=567145750&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=567145750&key=579621905"
+            },
+            {
+                "id": "1317445255",
+                "name": "FLIP THE SWITCH",
+                "singer": "Quavo",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1317445255&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1317445255&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1317445255&key=579621905"
+            },
+            {
+                "id": "1306367847",
+                "name": "One Shot",
+                "singer": "Mabel",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1306367847&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1306367847&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1306367847&key=579621905"
+            },
+            {
+                "id": "1315449852",
+                "name": "Polaroid",
+                "singer": "Jonas Blue",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315449852&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315449852&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315449852&key=579621905"
+            },
+            {
+                "id": "1302000109",
+                "name": "TOOTIMETOOTIMETOOTIME",
+                "singer": "The 1975",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1302000109&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1302000109&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1302000109&key=579621905"
+            },
+            {
+                "id": "460043703",
+                "name": "Perfect",
+                "singer": "Ed Sheeran",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=460043703&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=460043703&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=460043703&key=579621905"
+            },
+            {
+                "id": "1298432425",
+                "name": "SICKO MODE",
+                "singer": "Travis Scott",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1298432425&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1298432425&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1298432425&key=579621905"
+            },
+            {
+                "id": "1311731785",
+                "name": "I Want You to Freak",
+                "singer": "Rak-Su",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1311731785&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1311731785&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1311731785&key=579621905"
+            },
+            {
+                "id": "1315497374",
+                "name": "STOOPID",
+                "singer": "6ix9ine",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315497374&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315497374&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315497374&key=579621905"
+            },
+            {
+                "id": "1311434003",
+                "name": "This Feeling",
+                "singer": "The Chainsmokers",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1311434003&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1311434003&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1311434003&key=579621905"
+            },
+            {
+                "id": "547229527",
+                "name": "Lost In Japan",
+                "singer": "Shawn Mendes",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=547229527&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=547229527&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=547229527&key=579621905"
+            },
+            {
+                "id": "557704117",
+                "name": "Solo",
+                "singer": "Clean Bandit",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=557704117&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=557704117&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=557704117&key=579621905"
+            },
+            {
+                "id": "1313157510",
+                "name": "Moves",
+                "singer": "Olly Murs",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313157510&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313157510&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313157510&key=579621905"
+            },
+            {
+                "id": "555931250",
+                "name": "I'll Be There",
+                "singer": "Jess Glynne",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=555931250&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=555931250&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=555931250&key=579621905"
+            },
+            {
+                "id": "514281553",
+                "name": "Nevermind",
+                "singer": "Dennis Lloyd",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=514281553&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=514281553&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=514281553&key=579621905"
+            },
+            {
+                "id": "1315374652",
+                "name": "Never Recover",
+                "singer": "Lil Baby",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315374652&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315374652&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315374652&key=579621905"
+            },
+            {
+                "id": "1296550397",
+                "name": "No Brainer",
+                "singer": "DJ Khaled",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1296550397&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1296550397&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1296550397&key=579621905"
+            },
+            {
+                "id": "553814210",
+                "name": "no tears left to cry",
+                "singer": "Ariana Grande",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=553814210&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=553814210&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=553814210&key=579621905"
+            },
+            {
+                "id": "1316768392",
+                "name": "These Days",
+                "singer": "Rudimental",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1316768392&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1316768392&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1316768392&key=579621905"
+            },
+            {
+                "id": "553479159",
+                "name": "2002",
+                "singer": "Anne-Marie",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=553479159&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=553479159&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=553479159&key=579621905"
+            },
+            {
+                "id": "1317335506",
+                "name": "Ottolenghi",
+                "singer": "Loyle Carner",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1317335506&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1317335506&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1317335506&key=579621905"
+            },
+            {
+                "id": "522429783",
+                "name": "From Now On",
+                "singer": "Hugh Jackman",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=522429783&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=522429783&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=522429783&key=579621905"
+            },
+            {
+                "id": "1310995692",
+                "name": "CRB Check",
+                "singer": "Chip",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1310995692&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1310995692&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1310995692&key=579621905"
+            },
+            {
+                "id": "1302440731",
+                "name": "Chop My Money",
+                "singer": "Ill Blu",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1302440731&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1302440731&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1302440731&key=579621905"
+            },
+            {
+                "id": "1305368074",
+                "name": "LO(V/S)ER",
+                "singer": "AJ Tracey",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1305368074&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1305368074&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1305368074&key=579621905"
+            },
+            {
+                "id": "562675944",
+                "name": "Jackie Chan",
+                "singer": "Tiësto",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=562675944&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=562675944&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=562675944&key=579621905"
+            },
+            {
+                "id": "550566633",
+                "name": "I Like It",
+                "singer": "Cardi B",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=550566633&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=550566633&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=550566633&key=579621905"
+            },
+            {
+                "id": "863236494",
+                "name": "Energy (Stay Far Away)",
+                "singer": "Skepta",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=863236494&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=863236494&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=863236494&key=579621905"
+            },
+            {
+                "id": "1315373754",
+                "name": "Close Friends",
+                "singer": "Gunna",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315373754&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315373754&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315373754&key=579621905"
+            },
+            {
+                "id": "545350934",
+                "name": "Moonlight",
+                "singer": "XXXTENTACION",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=545350934&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=545350934&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=545350934&key=579621905"
+            },
+            {
+                "id": "1315297022",
+                "name": "Whatchamacallit",
+                "singer": "Ella Mai",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315297022&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315297022&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315297022&key=579621905"
+            },
+            {
+                "id": "528864711",
+                "name": "Paradise",
+                "singer": "George Ezra",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=528864711&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=528864711&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=528864711&key=579621905"
+            },
+            {
+                "id": "1313679006",
+                "name": "sad!",
+                "singer": "GAME-music",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313679006&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313679006&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313679006&key=579621905"
+            },
+            {
+                "id": "1316767905",
+                "name": "Round Here",
+                "singer": "WSTRN",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1316767905&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1316767905&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1316767905&key=579621905"
+            },
+            {
+                "id": "1294378245",
+                "name": "Natural",
+                "singer": "Imagine Dragons",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1294378245&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1294378245&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1294378245&key=579621905"
+            },
+            {
+                "id": "515535828",
+                "name": "The Greatest Show",
+                "singer": "Keala Settle",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=515535828&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=515535828&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=515535828&key=579621905"
+            },
+            {
+                "id": "1311498434",
+                "name": "Guiding Light",
+                "singer": "Mumford & Sons",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1311498434&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1311498434&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1311498434&key=579621905"
+            },
+            {
+                "id": "1316748395",
+                "name": "Wondering",
+                "singer": "M.O",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1316748395&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1316748395&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1316748395&key=579621905"
+            },
+            {
+                "id": "574935340",
+                "name": "If You're Over Me",
+                "singer": "Years & Years",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=574935340&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=574935340&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=574935340&key=579621905"
+            },
+            {
+                "id": "1313326002",
+                "name": "Mona Lisa",
+                "singer": "Lil Wayne",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313326002&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313326002&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313326002&key=579621905"
+            },
+            {
+                "id": "1317445252",
+                "name": "PASS OUT",
+                "singer": "Quavo",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1317445252&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1317445252&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1317445252&key=579621905"
+            },
+            {
+                "id": "487923727",
+                "name": "Found What I've Been Looking For",
+                "singer": "Tom Grennan",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=487923727&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=487923727&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=487923727&key=579621905"
+            },
+            {
+                "id": "1315497443",
+                "name": "Mo Bamba",
+                "singer": "Sheck Wes",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315497443&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315497443&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315497443&key=579621905"
+            },
+            {
+                "id": "451703096",
+                "name": "Shape of You",
+                "singer": "Ed Sheeran",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=451703096&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=451703096&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=451703096&key=579621905"
+            },
+            {
+                "id": "1315263605",
+                "name": "All We Know",
+                "singer": "Dappy",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315263605&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315263605&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315263605&key=579621905"
+            },
+            {
+                "id": "567101163",
+                "name": "Praise The Lord (Da Shine)",
+                "singer": "A$AP Rocky",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=567101163&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=567101163&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=567101163&key=579621905"
+            }
+        ]
+    }
+}

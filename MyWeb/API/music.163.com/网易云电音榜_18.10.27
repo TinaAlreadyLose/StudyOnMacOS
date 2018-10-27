@@ -1,0 +1,415 @@
+{
+    "result": "SUCCESS",
+    "code": 200,
+    "data": {
+        "songListId": "1978921795",
+        "songListName": "云音乐电音榜",
+        "songListPic": "http://p1.music.126.net/5tgOCD4jiPKBGt7znJl-2g==/18822539557941307.jpg",
+        "songListCount": "50",
+        "songListPlayCount": "60436520",
+        "songListDescription": "云音乐用户一周内收听电子音乐官方TOP排行榜，每周五更新",
+        "songListUserId": "1",
+        "songs": [
+            {
+                "id": "34057469",
+                "name": "Frontier (Extended Mix)",
+                "singer": "VINAI",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=34057469&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=34057469&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=34057469&key=579621905"
+            },
+            {
+                "id": "440353010",
+                "name": "#Lov3 #Ngẫu Hứng",
+                "singer": "Hoaprox",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=440353010&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=440353010&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=440353010&key=579621905"
+            },
+            {
+                "id": "4341314",
+                "name": "Intro",
+                "singer": "The xx",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=4341314&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=4341314&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=4341314&key=579621905"
+            },
+            {
+                "id": "431855270",
+                "name": "Take Me To Infinity",
+                "singer": "Consoul Trainin",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=431855270&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=431855270&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=431855270&key=579621905"
+            },
+            {
+                "id": "30064175",
+                "name": "Horizon",
+                "singer": "Janji",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=30064175&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=30064175&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=30064175&key=579621905"
+            },
+            {
+                "id": "441491410",
+                "name": "Wild",
+                "singer": "Monogem",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=441491410&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=441491410&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=441491410&key=579621905"
+            },
+            {
+                "id": "3932159",
+                "name": "You",
+                "singer": "Approaching Nirvana",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=3932159&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=3932159&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=3932159&key=579621905"
+            },
+            {
+                "id": "36492599",
+                "name": "Trip",
+                "singer": "Axero",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=36492599&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=36492599&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=36492599&key=579621905"
+            },
+            {
+                "id": "29806043",
+                "name": "Are You With Me",
+                "singer": "Lost Frequencies",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=29806043&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=29806043&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=29806043&key=579621905"
+            },
+            {
+                "id": "444269135",
+                "name": "Alone",
+                "singer": "Alan Walker",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=444269135&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=444269135&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=444269135&key=579621905"
+            },
+            {
+                "id": "33291435",
+                "name": "Samsara",
+                "singer": "Tungevaag & Raaban",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=33291435&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=33291435&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=33291435&key=579621905"
+            },
+            {
+                "id": "30987703",
+                "name": "Frontier",
+                "singer": "Doctor Vox",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=30987703&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=30987703&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=30987703&key=579621905"
+            },
+            {
+                "id": "29750825",
+                "name": "Es rappelt im Karton",
+                "singer": "Pixie Paris",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=29750825&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=29750825&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=29750825&key=579621905"
+            },
+            {
+                "id": "34040716",
+                "name": "Visions",
+                "singer": "Acreix",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=34040716&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=34040716&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=34040716&key=579621905"
+            },
+            {
+                "id": "28796621",
+                "name": "Toca Toca (Radio Edit)",
+                "singer": "Fly Project",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=28796621&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=28796621&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=28796621&key=579621905"
+            },
+            {
+                "id": "446935665",
+                "name": "夢燈籠 (R7CKY 你的名字 Mix)",
+                "singer": "R7CKY",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=446935665&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=446935665&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=446935665&key=579621905"
+            },
+            {
+                "id": "30064263",
+                "name": "Spectre",
+                "singer": "Alan Walker",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=30064263&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=30064263&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=30064263&key=579621905"
+            },
+            {
+                "id": "440101136",
+                "name": "Sign",
+                "singer": "DEAMN",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=440101136&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=440101136&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=440101136&key=579621905"
+            },
+            {
+                "id": "32835377",
+                "name": "Reality",
+                "singer": "Lost Frequencies",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=32835377&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=32835377&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=32835377&key=579621905"
+            },
+            {
+                "id": "30854966",
+                "name": "Masked Heroes",
+                "singer": "Vexento",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=30854966&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=30854966&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=30854966&key=579621905"
+            },
+            {
+                "id": "412951708",
+                "name": "Hymn for the Weekend (SeeB Remix)",
+                "singer": "Coldplay",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=412951708&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=412951708&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=412951708&key=579621905"
+            },
+            {
+                "id": "27713920",
+                "name": "Wake Me Up",
+                "singer": "Avicii",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=27713920&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=27713920&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=27713920&key=579621905"
+            },
+            {
+                "id": "467394056",
+                "name": "Black Gun (English Version)",
+                "singer": "Happy People",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=467394056&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=467394056&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=467394056&key=579621905"
+            },
+            {
+                "id": "28830410",
+                "name": "Life",
+                "singer": "Tobu",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=28830410&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=28830410&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=28830410&key=579621905"
+            },
+            {
+                "id": "34380473",
+                "name": "color-X 3D",
+                "singer": "徐梦圆",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=34380473&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=34380473&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=34380473&key=579621905"
+            },
+            {
+                "id": "403012527",
+                "name": "Escape",
+                "singer": "Dripice",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=403012527&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=403012527&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=403012527&key=579621905"
+            },
+            {
+                "id": "27542857",
+                "name": "Energy Drink",
+                "singer": "Virtual Riot",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=27542857&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=27542857&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=27542857&key=579621905"
+            },
+            {
+                "id": "404276447",
+                "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+                "singer": "Kungs",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=404276447&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=404276447&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=404276447&key=579621905"
+            },
+            {
+                "id": "441617611",
+                "name": "锦里",
+                "singer": "HOPE-T",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=441617611&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=441617611&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=441617611&key=579621905"
+            },
+            {
+                "id": "522444713",
+                "name": "Mi Gente (Kiko Franco & Jetlag Music Remix)",
+                "singer": "Kiko Franco",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=522444713&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=522444713&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=522444713&key=579621905"
+            },
+            {
+                "id": "516750031",
+                "name": "Kiss Fight (Ben Phipps Remix)",
+                "singer": "Tülpa",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=516750031&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=516750031&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=516750031&key=579621905"
+            },
+            {
+                "id": "38358820",
+                "name": "The Party Troll",
+                "singer": "D1ofaquavibe",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=38358820&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=38358820&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=38358820&key=579621905"
+            },
+            {
+                "id": "423227267",
+                "name": "Bomba (Radio Edit) (Remix Klass)",
+                "singer": "Jessy Matador",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=423227267&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=423227267&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=423227267&key=579621905"
+            },
+            {
+                "id": "28959074",
+                "name": "New Thang",
+                "singer": "Redfoo",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=28959074&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=28959074&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=28959074&key=579621905"
+            },
+            {
+                "id": "35331692",
+                "name": "Heist",
+                "singer": "Noisestorm",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=35331692&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=35331692&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=35331692&key=579621905"
+            },
+            {
+                "id": "29774609",
+                "name": "Windfall",
+                "singer": "TheFatRat",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=29774609&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=29774609&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=29774609&key=579621905"
+            },
+            {
+                "id": "31594436",
+                "name": "The Spook",
+                "singer": "KSHMR",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=31594436&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=31594436&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=31594436&key=579621905"
+            },
+            {
+                "id": "408532862",
+                "name": "Bring Back The Summer (Not Your Dope Remix)",
+                "singer": "Not Your Dope",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=408532862&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=408532862&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=408532862&key=579621905"
+            },
+            {
+                "id": "460476510",
+                "name": "Save Me",
+                "singer": "DEAMN",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=460476510&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=460476510&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=460476510&key=579621905"
+            },
+            {
+                "id": "28830412",
+                "name": "Higher",
+                "singer": "Tobu",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=28830412&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=28830412&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=28830412&key=579621905"
+            },
+            {
+                "id": "34749984",
+                "name": "Hold On (Radio Edit)",
+                "singer": "Moguai",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=34749984&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=34749984&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=34749984&key=579621905"
+            },
+            {
+                "id": "27108022",
+                "name": "Shooting Stars",
+                "singer": "Bag Raiders",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=27108022&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=27108022&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=27108022&key=579621905"
+            },
+            {
+                "id": "417908641",
+                "name": "Flip It (The Edit)",
+                "singer": "Snoop Dogg",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=417908641&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=417908641&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=417908641&key=579621905"
+            },
+            {
+                "id": "418602744",
+                "name": "Frisbee",
+                "singer": "Ahxello",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=418602744&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=418602744&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=418602744&key=579621905"
+            },
+            {
+                "id": "28283079",
+                "name": "Ascension (Remix)",
+                "singer": "MitiS",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=28283079&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=28283079&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=28283079&key=579621905"
+            },
+            {
+                "id": "453185808",
+                "name": "Paris",
+                "singer": "The Chainsmokers",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=453185808&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=453185808&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=453185808&key=579621905"
+            },
+            {
+                "id": "421423756",
+                "name": "Nervous (The Ooh Song) [Mark McCabe Remix]",
+                "singer": "Gavin James",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=421423756&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=421423756&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=421423756&key=579621905"
+            },
+            {
+                "id": "30051135",
+                "name": "Angel With A Shotgun  ",
+                "singer": "Nightcore",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=30051135&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=30051135&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=30051135&key=579621905"
+            },
+            {
+                "id": "433018366",
+                "name": "Ain't My Fault (R3hab Remix)",
+                "singer": "Zara Larsson",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=433018366&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=433018366&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=433018366&key=579621905"
+            },
+            {
+                "id": "33785920",
+                "name": "Skyland",
+                "singer": "Mich",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=33785920&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=33785920&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=33785920&key=579621905"
+            }
+        ]
+    }
+}

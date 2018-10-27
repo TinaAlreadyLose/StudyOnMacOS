@@ -1,0 +1,278 @@
+{
+    "result": "SUCCESS",
+    "code": 200,
+    "data": {
+        "id": "4937113027",
+        "title": "恋爱进行曲：恰在青春最好时",
+        "desc": "超喜欢有你的秋天<br>喜欢把地上的枯叶踩的咔擦咔擦响<br>然后在路边买袋热乎乎的甜栗子<br>我套着薄外套和卫衣 穿着小裙子和小皮鞋<br>哒哒哒的奔进你的怀里<br>不会出汗 也不会耳鸣 气喘吁吁呼着气再平静心情<br>一只手搂着你的手臂<br>另一只手端着加了好多好多珍珠的奶茶<br>你一边剥着栗子 我一边喝着奶茶 <br>在等红绿灯的间隙还可以跟你说我爱你<br>然后呢 获得一个轻轻的吻作为回应<br>&#10084;<br>嘻嘻 我们的爱情真好 有你的青春真好",
+        "author": "蘑菇",
+        "songnum": "33",
+        "logo": "http://p.qpic.cn/music_cover/X9lmt3gQ1KkaezXF13jX335JicyLmSwy9Jaiaiab3FQsMibNTXKeQcCdSw/300?n=1",
+        "songs": [
+            {
+                "id": "000Mtkjv30iBSq",
+                "name": "跟我在一起",
+                "singer": "很美味",
+                "url": "http://api.bzqll.com/music/tencent/url?id=000Mtkjv30iBSq&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=000Mtkjv30iBSq&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=000Mtkjv30iBSq&key=579621905"
+            },
+            {
+                "id": "001b2wlB3CbLay",
+                "name": "对的人",
+                "singer": "不靠谱组合",
+                "url": "http://api.bzqll.com/music/tencent/url?id=001b2wlB3CbLay&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=001b2wlB3CbLay&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=001b2wlB3CbLay&key=579621905"
+            },
+            {
+                "id": "001Wsahf1xRfum",
+                "name": "Ruby",
+                "singer": "杨功昊",
+                "url": "http://api.bzqll.com/music/tencent/url?id=001Wsahf1xRfum&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=001Wsahf1xRfum&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=001Wsahf1xRfum&key=579621905"
+            },
+            {
+                "id": "0014ytve2Q4xbd",
+                "name": "最动听的姓名",
+                "singer": "黎嘉浩",
+                "url": "http://api.bzqll.com/music/tencent/url?id=0014ytve2Q4xbd&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=0014ytve2Q4xbd&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=0014ytve2Q4xbd&key=579621905"
+            },
+            {
+                "id": "004M3XUq1SCTiZ",
+                "name": "写给未来女朋友的歌",
+                "singer": "VKING",
+                "url": "http://api.bzqll.com/music/tencent/url?id=004M3XUq1SCTiZ&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=004M3XUq1SCTiZ&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=004M3XUq1SCTiZ&key=579621905"
+            },
+            {
+                "id": "000ngLZt2yr3Cz",
+                "name": "只怕你",
+                "singer": "金志文/吕雯",
+                "url": "http://api.bzqll.com/music/tencent/url?id=000ngLZt2yr3Cz&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=000ngLZt2yr3Cz&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=000ngLZt2yr3Cz&key=579621905"
+            },
+            {
+                "id": "002bqp6M2P1IEE",
+                "name": "爱你爱你",
+                "singer": "曲肖冰",
+                "url": "http://api.bzqll.com/music/tencent/url?id=002bqp6M2P1IEE&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=002bqp6M2P1IEE&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=002bqp6M2P1IEE&key=579621905"
+            },
+            {
+                "id": "003PE7Bv3uN58s",
+                "name": "带你回家",
+                "singer": "贺仙人",
+                "url": "http://api.bzqll.com/music/tencent/url?id=003PE7Bv3uN58s&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=003PE7Bv3uN58s&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=003PE7Bv3uN58s&key=579621905"
+            },
+            {
+                "id": "004ZS8j10P2n4d",
+                "name": "张家明和婉君",
+                "singer": "李荣浩",
+                "url": "http://api.bzqll.com/music/tencent/url?id=004ZS8j10P2n4d&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=004ZS8j10P2n4d&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=004ZS8j10P2n4d&key=579621905"
+            },
+            {
+                "id": "002AGF403Jh4LI",
+                "name": "有关于爱的定义",
+                "singer": "杨璐",
+                "url": "http://api.bzqll.com/music/tencent/url?id=002AGF403Jh4LI&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=002AGF403Jh4LI&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=002AGF403Jh4LI&key=579621905"
+            },
+            {
+                "id": "001TaPbN3Y6BJZ",
+                "name": "阳光刚好",
+                "singer": "王元",
+                "url": "http://api.bzqll.com/music/tencent/url?id=001TaPbN3Y6BJZ&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=001TaPbN3Y6BJZ&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=001TaPbN3Y6BJZ&key=579621905"
+            },
+            {
+                "id": "0026OvP92Wy6zh",
+                "name": "足够",
+                "singer": "Zealot周星星",
+                "url": "http://api.bzqll.com/music/tencent/url?id=0026OvP92Wy6zh&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=0026OvP92Wy6zh&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=0026OvP92Wy6zh&key=579621905"
+            },
+            {
+                "id": "000Z8ZYv3ahBhl",
+                "name": "偷心计划",
+                "singer": "薛明媛",
+                "url": "http://api.bzqll.com/music/tencent/url?id=000Z8ZYv3ahBhl&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=000Z8ZYv3ahBhl&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=000Z8ZYv3ahBhl&key=579621905"
+            },
+            {
+                "id": "003FZQsx1E6Idx",
+                "name": "不及",
+                "singer": "曾翊雄",
+                "url": "http://api.bzqll.com/music/tencent/url?id=003FZQsx1E6Idx&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=003FZQsx1E6Idx&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=003FZQsx1E6Idx&key=579621905"
+            },
+            {
+                "id": "0016aHoC1IyI1d",
+                "name": "白羊",
+                "singer": "徐秉龙/沈以诚",
+                "url": "http://api.bzqll.com/music/tencent/url?id=0016aHoC1IyI1d&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=0016aHoC1IyI1d&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=0016aHoC1IyI1d&key=579621905"
+            },
+            {
+                "id": "000dyMiX2jvi4U",
+                "name": "风筝",
+                "singer": "高糕",
+                "url": "http://api.bzqll.com/music/tencent/url?id=000dyMiX2jvi4U&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=000dyMiX2jvi4U&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=000dyMiX2jvi4U&key=579621905"
+            },
+            {
+                "id": "001JjfSU3pWts9",
+                "name": "二皮脸",
+                "singer": "王般若",
+                "url": "http://api.bzqll.com/music/tencent/url?id=001JjfSU3pWts9&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=001JjfSU3pWts9&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=001JjfSU3pWts9&key=579621905"
+            },
+            {
+                "id": "002nhOv72KAwmt",
+                "name": "你",
+                "singer": "顾珣",
+                "url": "http://api.bzqll.com/music/tencent/url?id=002nhOv72KAwmt&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=002nhOv72KAwmt&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=002nhOv72KAwmt&key=579621905"
+            },
+            {
+                "id": "000gMXIg4Epw7i",
+                "name": "丘比特点赞",
+                "singer": "牛奶咖啡",
+                "url": "http://api.bzqll.com/music/tencent/url?id=000gMXIg4Epw7i&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=000gMXIg4Epw7i&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=000gMXIg4Epw7i&key=579621905"
+            },
+            {
+                "id": "003JGuql4BnmQw",
+                "name": "两个西柚",
+                "singer": "倪子鱼",
+                "url": "http://api.bzqll.com/music/tencent/url?id=003JGuql4BnmQw&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=003JGuql4BnmQw&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=003JGuql4BnmQw&key=579621905"
+            },
+            {
+                "id": "004ezzid1izfnY",
+                "name": "清守",
+                "singer": "陈雪凝",
+                "url": "http://api.bzqll.com/music/tencent/url?id=004ezzid1izfnY&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=004ezzid1izfnY&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=004ezzid1izfnY&key=579621905"
+            },
+            {
+                "id": "002rgv1d0g4chf",
+                "name": "独一",
+                "singer": "薄荷绿乐队",
+                "url": "http://api.bzqll.com/music/tencent/url?id=002rgv1d0g4chf&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=002rgv1d0g4chf&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=002rgv1d0g4chf&key=579621905"
+            },
+            {
+                "id": "000qAQB139ri1R",
+                "name": "吹海风",
+                "singer": "冯提莫",
+                "url": "http://api.bzqll.com/music/tencent/url?id=000qAQB139ri1R&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=000qAQB139ri1R&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=000qAQB139ri1R&key=579621905"
+            },
+            {
+                "id": "004EpN134LkLaX",
+                "name": "做我女朋友",
+                "singer": "RedXxxxxx",
+                "url": "http://api.bzqll.com/music/tencent/url?id=004EpN134LkLaX&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=004EpN134LkLaX&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=004EpN134LkLaX&key=579621905"
+            },
+            {
+                "id": "003V4xd80ty2df",
+                "name": "你会是我的吗",
+                "singer": "七修远",
+                "url": "http://api.bzqll.com/music/tencent/url?id=003V4xd80ty2df&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=003V4xd80ty2df&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=003V4xd80ty2df&key=579621905"
+            },
+            {
+                "id": "001FUElb3OefAa",
+                "name": "可是我想说",
+                "singer": "左颜",
+                "url": "http://api.bzqll.com/music/tencent/url?id=001FUElb3OefAa&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=001FUElb3OefAa&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=001FUElb3OefAa&key=579621905"
+            },
+            {
+                "id": "0014Ju3P2XEL59",
+                "name": "那时正好",
+                "singer": "赵政豪",
+                "url": "http://api.bzqll.com/music/tencent/url?id=0014Ju3P2XEL59&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=0014Ju3P2XEL59&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=0014Ju3P2XEL59&key=579621905"
+            },
+            {
+                "id": "002vj5gv2O3syY",
+                "name": "血莉",
+                "singer": "林恩",
+                "url": "http://api.bzqll.com/music/tencent/url?id=002vj5gv2O3syY&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=002vj5gv2O3syY&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=002vj5gv2O3syY&key=579621905"
+            },
+            {
+                "id": "000hNNUZ155Fi2",
+                "name": "我要和你在一起",
+                "singer": "伏仪",
+                "url": "http://api.bzqll.com/music/tencent/url?id=000hNNUZ155Fi2&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=000hNNUZ155Fi2&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=000hNNUZ155Fi2&key=579621905"
+            },
+            {
+                "id": "004bbsAN3SmWwf",
+                "name": "情书",
+                "singer": "旅行团乐队",
+                "url": "http://api.bzqll.com/music/tencent/url?id=004bbsAN3SmWwf&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=004bbsAN3SmWwf&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=004bbsAN3SmWwf&key=579621905"
+            },
+            {
+                "id": "001WkUCA3cTsEf",
+                "name": "有一个人",
+                "singer": "赵恒",
+                "url": "http://api.bzqll.com/music/tencent/url?id=001WkUCA3cTsEf&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=001WkUCA3cTsEf&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=001WkUCA3cTsEf&key=579621905"
+            },
+            {
+                "id": "004OlXeA1D2jUp",
+                "name": "舞与你",
+                "singer": "叶湘伦",
+                "url": "http://api.bzqll.com/music/tencent/url?id=004OlXeA1D2jUp&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=004OlXeA1D2jUp&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=004OlXeA1D2jUp&key=579621905"
+            },
+            {
+                "id": "002KeS6R4QNjB3",
+                "name": "喜欢你时",
+                "singer": "张千一",
+                "url": "http://api.bzqll.com/music/tencent/url?id=002KeS6R4QNjB3&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=002KeS6R4QNjB3&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=002KeS6R4QNjB3&key=579621905"
+            }
+        ]
+    }
+}

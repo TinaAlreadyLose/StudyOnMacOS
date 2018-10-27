@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Title</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <script src="../jquery-3.3.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".hidden").click(function () {
+                $(".demo").hide(1000);
+         });
+        $(".show").click(function () {
+            $(".demo").show();
+        });
+    });</script>
+    <p class="demo">this is a test</p>
+    <button class="hidden" type="button" >隐藏</button><br>
+    <button class="show" type="button">显示</button>
+</body>
+</html>

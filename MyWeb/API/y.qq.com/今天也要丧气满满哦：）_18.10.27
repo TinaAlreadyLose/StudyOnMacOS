@@ -1,0 +1,190 @@
+{
+    "result": "SUCCESS",
+    "code": 200,
+    "data": {
+        "id": "4269138778",
+        "title": "今天也要丧气满满哦：）",
+        "desc": "每个人都想一直保持微笑开心每一天，但总是会有各种麻烦的事情困扰，面对生活中的小乌云，其实不用特别紧张，听几首丧气满满的歌说不定你就更丧了呢。其实我是一个演员：）",
+        "author": "疯狂的Max",
+        "songnum": "22",
+        "logo": "http://p.qpic.cn/music_cover/y2vAJtXoDibUohkSj7PP066ZRDVolP654QJXeyibyvqTy8jq4NgQknqg/300?n=1",
+        "songs": [
+            {
+                "id": "002SwOLo1gVIMT",
+                "name": "My Ship Isn't Pretty",
+                "singer": "Kings Of Convenience",
+                "url": "http://api.bzqll.com/music/tencent/url?id=002SwOLo1gVIMT&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=002SwOLo1gVIMT&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=002SwOLo1gVIMT&key=579621905"
+            },
+            {
+                "id": "001Er3XJ1yBuq9",
+                "name": "Limbs Of Faith",
+                "singer": "Beauvois",
+                "url": "http://api.bzqll.com/music/tencent/url?id=001Er3XJ1yBuq9&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=001Er3XJ1yBuq9&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=001Er3XJ1yBuq9&key=579621905"
+            },
+            {
+                "id": "000tURRu1oVphf",
+                "name": "Darkness Of The Day",
+                "singer": "Isaac Gracie",
+                "url": "http://api.bzqll.com/music/tencent/url?id=000tURRu1oVphf&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=000tURRu1oVphf&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=000tURRu1oVphf&key=579621905"
+            },
+            {
+                "id": "0023Jo1m1Jyvba",
+                "name": "The Taste Of Tears",
+                "singer": "Piers Faccini",
+                "url": "http://api.bzqll.com/music/tencent/url?id=0023Jo1m1Jyvba&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=0023Jo1m1Jyvba&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=0023Jo1m1Jyvba&key=579621905"
+            },
+            {
+                "id": "004Zq4yz4JdUmS",
+                "name": "Goodbye",
+                "singer": "Greg Laswell",
+                "url": "http://api.bzqll.com/music/tencent/url?id=004Zq4yz4JdUmS&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=004Zq4yz4JdUmS&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=004Zq4yz4JdUmS&key=579621905"
+            },
+            {
+                "id": "003VlExF110WA9",
+                "name": "When We Were Young",
+                "singer": "Isbells",
+                "url": "http://api.bzqll.com/music/tencent/url?id=003VlExF110WA9&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=003VlExF110WA9&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=003VlExF110WA9&key=579621905"
+            },
+            {
+                "id": "003YmHUt2qxLTy",
+                "name": "Save You",
+                "singer": "Matthew Perryman Jones",
+                "url": "http://api.bzqll.com/music/tencent/url?id=003YmHUt2qxLTy&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=003YmHUt2qxLTy&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=003YmHUt2qxLTy&key=579621905"
+            },
+            {
+                "id": "002a7s0b3dEDw8",
+                "name": "If I Go, I'm Goin",
+                "singer": "Various Artists",
+                "url": "http://api.bzqll.com/music/tencent/url?id=002a7s0b3dEDw8&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=002a7s0b3dEDw8&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=002a7s0b3dEDw8&key=579621905"
+            },
+            {
+                "id": "004Clqit3GCNb9",
+                "name": "Lost And Found",
+                "singer": "Johnny Flynn",
+                "url": "http://api.bzqll.com/music/tencent/url?id=004Clqit3GCNb9&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=004Clqit3GCNb9&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=004Clqit3GCNb9&key=579621905"
+            },
+            {
+                "id": "003YEuq01B4G2T",
+                "name": "The Cure For Pain",
+                "singer": "Jon Foreman",
+                "url": "http://api.bzqll.com/music/tencent/url?id=003YEuq01B4G2T&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=003YEuq01B4G2T&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=003YEuq01B4G2T&key=579621905"
+            },
+            {
+                "id": "002ZIFLJ4DTgAy",
+                "name": "Nobody's Someone",
+                "singer": "Scott Orr",
+                "url": "http://api.bzqll.com/music/tencent/url?id=002ZIFLJ4DTgAy&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=002ZIFLJ4DTgAy&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=002ZIFLJ4DTgAy&key=579621905"
+            },
+            {
+                "id": "0047lUt93LcTlF",
+                "name": "Queen Street Lost",
+                "singer": "Justin Rutledge",
+                "url": "http://api.bzqll.com/music/tencent/url?id=0047lUt93LcTlF&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=0047lUt93LcTlF&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=0047lUt93LcTlF&key=579621905"
+            },
+            {
+                "id": "003Sy08e4QVycz",
+                "name": "Act Like You Love Me",
+                "singer": "Shawn Mendes",
+                "url": "http://api.bzqll.com/music/tencent/url?id=003Sy08e4QVycz&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=003Sy08e4QVycz&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=003Sy08e4QVycz&key=579621905"
+            },
+            {
+                "id": "003XesFY4aAdQM",
+                "name": "Blame The Weather",
+                "singer": "Dave Thomas Junior",
+                "url": "http://api.bzqll.com/music/tencent/url?id=003XesFY4aAdQM&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=003XesFY4aAdQM&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=003XesFY4aAdQM&key=579621905"
+            },
+            {
+                "id": "002CDKXP2TRr23",
+                "name": "Falling Awake",
+                "singer": "Gary Jules",
+                "url": "http://api.bzqll.com/music/tencent/url?id=002CDKXP2TRr23&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=002CDKXP2TRr23&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=002CDKXP2TRr23&key=579621905"
+            },
+            {
+                "id": "003BCL521UKEoj",
+                "name": "Embody Me",
+                "singer": "Novo Amor",
+                "url": "http://api.bzqll.com/music/tencent/url?id=003BCL521UKEoj&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=003BCL521UKEoj&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=003BCL521UKEoj&key=579621905"
+            },
+            {
+                "id": "000N7Rzq1P5IXb",
+                "name": "reverie",
+                "singer": "Isaac Gracie",
+                "url": "http://api.bzqll.com/music/tencent/url?id=000N7Rzq1P5IXb&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=000N7Rzq1P5IXb&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=000N7Rzq1P5IXb&key=579621905"
+            },
+            {
+                "id": "001ezhM71m91xE",
+                "name": "Stay for a While",
+                "singer": "Peter Bradley Adams",
+                "url": "http://api.bzqll.com/music/tencent/url?id=001ezhM71m91xE&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=001ezhM71m91xE&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=001ezhM71m91xE&key=579621905"
+            },
+            {
+                "id": "000CWt2p3zsAxi",
+                "name": "No One Ever Gave Us The Right",
+                "singer": "Marble Sounds",
+                "url": "http://api.bzqll.com/music/tencent/url?id=000CWt2p3zsAxi&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=000CWt2p3zsAxi&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=000CWt2p3zsAxi&key=579621905"
+            },
+            {
+                "id": "0031wNrk2V4cmc",
+                "name": "(I Am Done) Making Fun of Myself",
+                "singer": "Pajaro Sunrise",
+                "url": "http://api.bzqll.com/music/tencent/url?id=0031wNrk2V4cmc&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=0031wNrk2V4cmc&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=0031wNrk2V4cmc&key=579621905"
+            },
+            {
+                "id": "003VW8fz1IpT7U",
+                "name": "One of Us Cannot Be Wrong",
+                "singer": "Gregory Alan Isakov",
+                "url": "http://api.bzqll.com/music/tencent/url?id=003VW8fz1IpT7U&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=003VW8fz1IpT7U&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=003VW8fz1IpT7U&key=579621905"
+            },
+            {
+                "id": "002aPx9D32TL3H",
+                "name": "Better Off Now",
+                "singer": "Trent Dabbs",
+                "url": "http://api.bzqll.com/music/tencent/url?id=002aPx9D32TL3H&key=579621905",
+                "pic": "http://api.bzqll.com/music/tencent/pic?id=002aPx9D32TL3H&key=579621905",
+                "lrc": "http://api.bzqll.com/music/tencent/lrc?id=002aPx9D32TL3H&key=579621905"
+            }
+        ]
+    }
+}

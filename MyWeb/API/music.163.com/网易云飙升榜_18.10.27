@@ -1,0 +1,815 @@
+{
+    "result": "SUCCESS",
+    "code": 200,
+    "data": {
+        "songListId": "19723756",
+        "songListName": "云音乐飙升榜",
+        "songListPic": "http://p2.music.126.net/DrRIg6CrgDfVLEph9SNh7w==/18696095720518497.jpg",
+        "songListCount": "100",
+        "songListPlayCount": "1409515648",
+        "songListDescription": "云音乐中每天热度上升最快的100首单曲，每日更新。",
+        "songListUserId": "1",
+        "songs": [
+            {
+                "id": "1293886117",
+                "name": "年少有为",
+                "singer": "李荣浩",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1293886117&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1293886117&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1293886117&key=579621905"
+            },
+            {
+                "id": "1320185104",
+                "name": "Waste It On Me",
+                "singer": "Steve Aoki",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320185104&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320185104&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320185104&key=579621905"
+            },
+            {
+                "id": "574566207",
+                "name": "盗将行",
+                "singer": "花粥",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=574566207&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=574566207&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=574566207&key=579621905"
+            },
+            {
+                "id": "1318920989",
+                "name": "Siren",
+                "singer": "The Chainsmokers",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318920989&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318920989&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318920989&key=579621905"
+            },
+            {
+                "id": "1318610333",
+                "name": "年少心事",
+                "singer": "王一博",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318610333&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318610333&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318610333&key=579621905"
+            },
+            {
+                "id": "1293951677",
+                "name": "昨日青空",
+                "singer": "尤长靖",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1293951677&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1293951677&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1293951677&key=579621905"
+            },
+            {
+                "id": "1319689130",
+                "name": "我不想说",
+                "singer": "好妹妹",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1319689130&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1319689130&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1319689130&key=579621905"
+            },
+            {
+                "id": "1318234987",
+                "name": "贝贝",
+                "singer": "李荣浩",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318234987&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318234987&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318234987&key=579621905"
+            },
+            {
+                "id": "1315696918",
+                "name": "Happy Now",
+                "singer": "Kygo",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315696918&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315696918&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315696918&key=579621905"
+            },
+            {
+                "id": "553755659",
+                "name": "可不可以",
+                "singer": "张紫豪",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=553755659&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=553755659&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=553755659&key=579621905"
+            },
+            {
+                "id": "1318707590",
+                "name": "Up All Night",
+                "singer": "R3hab",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318707590&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318707590&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318707590&key=579621905"
+            },
+            {
+                "id": "1320683464",
+                "name": "我非王臣",
+                "singer": "排骨教主",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320683464&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320683464&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320683464&key=579621905"
+            },
+            {
+                "id": "1318954187",
+                "name": "Thunderclouds (Lost Frequencies Remix)",
+                "singer": "LSD",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318954187&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318954187&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318954187&key=579621905"
+            },
+            {
+                "id": "1319875860",
+                "name": "Chrono Field",
+                "singer": "Wisp X",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1319875860&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1319875860&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1319875860&key=579621905"
+            },
+            {
+                "id": "1320427386",
+                "name": "懂你的美",
+                "singer": "ICE",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320427386&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320427386&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320427386&key=579621905"
+            },
+            {
+                "id": "864107063",
+                "name": "来不及勇敢",
+                "singer": "周深",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=864107063&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=864107063&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=864107063&key=579621905"
+            },
+            {
+                "id": "1311319058",
+                "name": "东西",
+                "singer": "林俊呈",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1311319058&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1311319058&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1311319058&key=579621905"
+            },
+            {
+                "id": "1319018530",
+                "name": "This Feeling",
+                "singer": "The Chainsmokers",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1319018530&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1319018530&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1319018530&key=579621905"
+            },
+            {
+                "id": "1320098238",
+                "name": "AYA",
+                "singer": "ICE",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320098238&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320098238&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320098238&key=579621905"
+            },
+            {
+                "id": "1320558175",
+                "name": "If Only",
+                "singer": "Andrea Bocelli",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320558175&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320558175&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320558175&key=579621905"
+            },
+            {
+                "id": "1320067248",
+                "name": "Say My Name",
+                "singer": "David Guetta",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320067248&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320067248&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320067248&key=579621905"
+            },
+            {
+                "id": "1320625316",
+                "name": "Grapevine",
+                "singer": "Tiësto",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320625316&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320625316&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320625316&key=579621905"
+            },
+            {
+                "id": "1319655594",
+                "name": "无名之辈",
+                "singer": "汪苏泷",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1319655594&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1319655594&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1319655594&key=579621905"
+            },
+            {
+                "id": "536099160",
+                "name": "不染",
+                "singer": "毛不易",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=536099160&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=536099160&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=536099160&key=579621905"
+            },
+            {
+                "id": "1320645226",
+                "name": "芭芘(Barbie)",
+                "singer": "Kc",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320645226&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320645226&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320645226&key=579621905"
+            },
+            {
+                "id": "554191378",
+                "name": "我乐意",
+                "singer": "许嵩",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=554191378&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=554191378&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=554191378&key=579621905"
+            },
+            {
+                "id": "1320098200",
+                "name": "大碗吃肉大口想你",
+                "singer": "范世錡",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320098200&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320098200&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320098200&key=579621905"
+            },
+            {
+                "id": "1320101152",
+                "name": "海浪",
+                "singer": "Deca Joins",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320101152&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320101152&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320101152&key=579621905"
+            },
+            {
+                "id": "1320101227",
+                "name": "ATTENTION",
+                "singer": "joji",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320101227&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320101227&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320101227&key=579621905"
+            },
+            {
+                "id": "863046037",
+                "name": "Way Back Home",
+                "singer": "SHAUN",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=863046037&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=863046037&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=863046037&key=579621905"
+            },
+            {
+                "id": "1320068260",
+                "name": "Survivor",
+                "singer": "Daniel Powter",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320068260&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320068260&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320068260&key=579621905"
+            },
+            {
+                "id": "1313310937",
+                "name": "Girl of the Year",
+                "singer": "Allie X",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313310937&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313310937&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313310937&key=579621905"
+            },
+            {
+                "id": "1320097104",
+                "name": "微醺 feat.徐真真",
+                "singer": "何柏诚",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320097104&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320097104&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320097104&key=579621905"
+            },
+            {
+                "id": "1310728498",
+                "name": "R.",
+                "singer": "李子豪(HtFR)",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1310728498&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1310728498&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1310728498&key=579621905"
+            },
+            {
+                "id": "1320097223",
+                "name": "future base",
+                "singer": "Kizuna AI",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320097223&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320097223&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320097223&key=579621905"
+            },
+            {
+                "id": "1311347356",
+                "name": "无问",
+                "singer": "刘乐瑶",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1311347356&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1311347356&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1311347356&key=579621905"
+            },
+            {
+                "id": "1318530025",
+                "name": "我不喜欢这世界只喜欢你",
+                "singer": "李瑨瑶",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318530025&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318530025&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318530025&key=579621905"
+            },
+            {
+                "id": "571545218",
+                "name": "再见，昨天",
+                "singer": "牛奶咖啡",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=571545218&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=571545218&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=571545218&key=579621905"
+            },
+            {
+                "id": "1320575462",
+                "name": "秘密飛行",
+                "singer": "辻詩音",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320575462&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320575462&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320575462&key=579621905"
+            },
+            {
+                "id": "1299550532",
+                "name": "倒数",
+                "singer": "G.E.M.邓紫棋",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1299550532&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1299550532&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1299550532&key=579621905"
+            },
+            {
+                "id": "1320303021",
+                "name": "Lifting You Higher (ASOT 900 Anthem)",
+                "singer": "Armin van Buuren",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320303021&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320303021&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320303021&key=579621905"
+            },
+            {
+                "id": "1320159309",
+                "name": "Checklist",
+                "singer": "Normani",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320159309&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320159309&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320159309&key=579621905"
+            },
+            {
+                "id": "1320643450",
+                "name": "刚好",
+                "singer": "吴海啸",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320643450&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320643450&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320643450&key=579621905"
+            },
+            {
+                "id": "1320065302",
+                "name": "Don't Know You",
+                "singer": "Justin Caruso",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320065302&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320065302&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320065302&key=579621905"
+            },
+            {
+                "id": "1319225007",
+                "name": "我抬头一看满街都是单身的狗",
+                "singer": "花粥",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1319225007&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1319225007&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1319225007&key=579621905"
+            },
+            {
+                "id": "1320591862",
+                "name": "The Fear",
+                "singer": "The Score",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320591862&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320591862&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320591862&key=579621905"
+            },
+            {
+                "id": "1309319139",
+                "name": "我回到那个名叫爱情的地方",
+                "singer": "沙宝亮",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1309319139&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1309319139&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1309319139&key=579621905"
+            },
+            {
+                "id": "1320097125",
+                "name": "大奇葩",
+                "singer": "大王",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320097125&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320097125&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320097125&key=579621905"
+            },
+            {
+                "id": "553815178",
+                "name": "静悄悄",
+                "singer": "大泫",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=553815178&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=553815178&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=553815178&key=579621905"
+            },
+            {
+                "id": "1305367704",
+                "name": "幼稚的歌",
+                "singer": "Quinn葵因",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1305367704&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1305367704&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1305367704&key=579621905"
+            },
+            {
+                "id": "1319299941",
+                "name": "爱你",
+                "singer": "昊林",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1319299941&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1319299941&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1319299941&key=579621905"
+            },
+            {
+                "id": "1320101153",
+                "name": "Go Slow",
+                "singer": "Deca Joins",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320101153&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320101153&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320101153&key=579621905"
+            },
+            {
+                "id": "1320157007",
+                "name": "Slow Down",
+                "singer": "Normani",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320157007&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320157007&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320157007&key=579621905"
+            },
+            {
+                "id": "1319688117",
+                "name": "孤枕人",
+                "singer": "马潇",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1319688117&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1319688117&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1319688117&key=579621905"
+            },
+            {
+                "id": "1318908169",
+                "name": "Electricity (The Black Madonna Remix)",
+                "singer": "Silk City",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318908169&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318908169&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318908169&key=579621905"
+            },
+            {
+                "id": "1320545391",
+                "name": "Killer Queen",
+                "singer": "5 Seconds of Summer",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320545391&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320545391&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320545391&key=579621905"
+            },
+            {
+                "id": "1318932958",
+                "name": "Fire In My Soul",
+                "singer": "Oliver Heldens",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318932958&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318932958&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318932958&key=579621905"
+            },
+            {
+                "id": "1296583188",
+                "name": "星球坠落 (Live)",
+                "singer": "艾热",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1296583188&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1296583188&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1296583188&key=579621905"
+            },
+            {
+                "id": "1320101062",
+                "name": "NEVER SURRENDER",
+                "singer": "水樹奈々",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320101062&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320101062&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320101062&key=579621905"
+            },
+            {
+                "id": "1305504315",
+                "name": "欧巴我不傻",
+                "singer": "夕西",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1305504315&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1305504315&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1305504315&key=579621905"
+            },
+            {
+                "id": "1320591736",
+                "name": "DOPENESS",
+                "singer": "Black Eyed Peas",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320591736&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320591736&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320591736&key=579621905"
+            },
+            {
+                "id": "1320100263",
+                "name": "秦楼月",
+                "singer": "裂天",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320100263&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320100263&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320100263&key=579621905"
+            },
+            {
+                "id": "1315469347",
+                "name": "Loudest MF (Crisis Era Remix)",
+                "singer": "Yellow Claw",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1315469347&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1315469347&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1315469347&key=579621905"
+            },
+            {
+                "id": "1320445142",
+                "name": "Take Your Love",
+                "singer": "Olly Murs",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320445142&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320445142&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320445142&key=579621905"
+            },
+            {
+                "id": "1320100238",
+                "name": "花",
+                "singer": "秦基博",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320100238&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320100238&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320100238&key=579621905"
+            },
+            {
+                "id": "1317145419",
+                "name": "精彩才刚刚开始",
+                "singer": "易烊千玺",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1317145419&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1317145419&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1317145419&key=579621905"
+            },
+            {
+                "id": "557581476",
+                "name": "去年夏天",
+                "singer": "王大毛",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=557581476&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=557581476&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=557581476&key=579621905"
+            },
+            {
+                "id": "1320690504",
+                "name": "好梦",
+                "singer": "苏琛",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320690504&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320690504&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320690504&key=579621905"
+            },
+            {
+                "id": "1308818967",
+                "name": "飘向北方 (Live)",
+                "singer": "尤长靖",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1308818967&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1308818967&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1308818967&key=579621905"
+            },
+            {
+                "id": "1320347115",
+                "name": "Paris",
+                "singer": "Sabrina Carpenter",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320347115&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320347115&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320347115&key=579621905"
+            },
+            {
+                "id": "1313070706",
+                "name": "Lost In Japan (Remix)",
+                "singer": "Shawn Mendes",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313070706&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313070706&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313070706&key=579621905"
+            },
+            {
+                "id": "1319027632",
+                "name": "Let You Down",
+                "singer": "Stonebank",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1319027632&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1319027632&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1319027632&key=579621905"
+            },
+            {
+                "id": "534542079",
+                "name": "侧脸",
+                "singer": "于果",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=534542079&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=534542079&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=534542079&key=579621905"
+            },
+            {
+                "id": "1313363502",
+                "name": "昨日青空",
+                "singer": "赵英博",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313363502&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313363502&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313363502&key=579621905"
+            },
+            {
+                "id": "1320064535",
+                "name": "L*** Is A Bad Word",
+                "singer": "Kiiara",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320064535&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320064535&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320064535&key=579621905"
+            },
+            {
+                "id": "1320030901",
+                "name": "凉凉 (Live)",
+                "singer": "张碧晨",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320030901&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320030901&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320030901&key=579621905"
+            },
+            {
+                "id": "1304261118",
+                "name": "我爱你，中国",
+                "singer": "中央乐团合唱团",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1304261118&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1304261118&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1304261118&key=579621905"
+            },
+            {
+                "id": "191528",
+                "name": "够钟",
+                "singer": "周柏豪",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=191528&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=191528&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=191528&key=579621905"
+            },
+            {
+                "id": "1320100226",
+                "name": "SLOW DANCING IN THE DARK",
+                "singer": "joji",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320100226&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320100226&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320100226&key=579621905"
+            },
+            {
+                "id": "1319018535",
+                "name": "Sick Boy",
+                "singer": "The Chainsmokers",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1319018535&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1319018535&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1319018535&key=579621905"
+            },
+            {
+                "id": "1298012284",
+                "name": "落.",
+                "singer": "达兰才子",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1298012284&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1298012284&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1298012284&key=579621905"
+            },
+            {
+                "id": "1320098208",
+                "name": "Left",
+                "singer": "余意",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320098208&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320098208&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320098208&key=579621905"
+            },
+            {
+                "id": "1319018531",
+                "name": "Side Effects",
+                "singer": "The Chainsmokers",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1319018531&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1319018531&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1319018531&key=579621905"
+            },
+            {
+                "id": "1320098204",
+                "name": "R.I.P. ",
+                "singer": "joji",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320098204&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320098204&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320098204&key=579621905"
+            },
+            {
+                "id": "1318163916",
+                "name": "Waiting for You",
+                "singer": "Alexander Jean",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318163916&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318163916&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318163916&key=579621905"
+            },
+            {
+                "id": "1320389291",
+                "name": "蜕",
+                "singer": "ivan蛋挞",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320389291&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320389291&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320389291&key=579621905"
+            },
+            {
+                "id": "1320068128",
+                "name": "Gam Gam",
+                "singer": "Marnik",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320068128&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320068128&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320068128&key=579621905"
+            },
+            {
+                "id": "436487129",
+                "name": "Move Your Body (Alan Walker Remix)",
+                "singer": "Sia",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=436487129&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=436487129&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=436487129&key=579621905"
+            },
+            {
+                "id": "1295862822",
+                "name": "Jubilee Road",
+                "singer": "Tom Odell",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1295862822&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1295862822&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1295862822&key=579621905"
+            },
+            {
+                "id": "1320064364",
+                "name": "Baby You're a Haunted House",
+                "singer": "Gerard Way",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320064364&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320064364&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320064364&key=579621905"
+            },
+            {
+                "id": "1317251063",
+                "name": "Woman Like Me",
+                "singer": "Little Mix",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1317251063&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1317251063&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1317251063&key=579621905"
+            },
+            {
+                "id": "1296410418",
+                "name": "Darkside",
+                "singer": "Alan Walker",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1296410418&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1296410418&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1296410418&key=579621905"
+            },
+            {
+                "id": "1310774833",
+                "name": "1-10表白体",
+                "singer": " 陈柯宇",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1310774833&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1310774833&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1310774833&key=579621905"
+            },
+            {
+                "id": "1313052711",
+                "name": " 失忆 ",
+                "singer": "刘崇健",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1313052711&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1313052711&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1313052711&key=579621905"
+            },
+            {
+                "id": "1318284264",
+                "name": "那一夜",
+                "singer": "G.E.M.邓紫棋",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318284264&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318284264&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318284264&key=579621905"
+            },
+            {
+                "id": "1318430037",
+                "name": "影响",
+                "singer": "陈粒",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318430037&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318430037&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318430037&key=579621905"
+            },
+            {
+                "id": "1320646083",
+                "name": "Santa Claus Is Comin' to Town",
+                "singer": "Jessie J",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320646083&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320646083&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320646083&key=579621905"
+            },
+            {
+                "id": "1320065970",
+                "name": "Whenever (Joe Stone Remix)",
+                "singer": "Kris Kross Amsterdam",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320065970&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320065970&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320065970&key=579621905"
+            },
+            {
+                "id": "1320600452",
+                "name": "在下东坡 一个吃货",
+                "singer": "曹石",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320600452&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320600452&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320600452&key=579621905"
+            },
+            {
+                "id": "1320606565",
+                "name": "Remember",
+                "singer": "Gryffin",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320606565&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320606565&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320606565&key=579621905"
+            }
+        ]
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "result": "SUCCESS",
+    "code": 200,
+    "data": {
+        "songListId": "10520166",
+        "songListName": "云音乐国电榜",
+        "songListPic": "http://p2.music.126.net/8-GBrukQ3BHhs4CmK6qE4w==/109951163424197392.jpg",
+        "songListCount": "20",
+        "songListPlayCount": "59481064",
+        "songListDescription": "▲▲▲本榜排名按作品发行时间顺序▲▲▲网易云音乐联合网易放刺、Loopy、加菲众、DJ WENGWENG（灯笼Club）、3ASiC（同步计划）、DJ Senders（沉睡电台）、Eiasn电音厂牌、电悦台（EDM Station） \n打造云音乐“国电榜” ! 每周五为大家带来网易电子音乐人优质新作！",
+        "songListUserId": "48102",
+        "songs": [
+            {
+                "id": "1320552558",
+                "name": "Keep Coming",
+                "singer": "Vanished",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320552558&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320552558&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320552558&key=579621905"
+            },
+            {
+                "id": "1320570782",
+                "name": "Z (Extended Mix)",
+                "singer": "Raina Chen",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320570782&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320570782&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320570782&key=579621905"
+            },
+            {
+                "id": "1320587366",
+                "name": "Barcelona",
+                "singer": "MT Boxer",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320587366&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320587366&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320587366&key=579621905"
+            },
+            {
+                "id": "1320419903",
+                "name": "桜の酒",
+                "singer": "大佛PLUSMA",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320419903&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320419903&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320419903&key=579621905"
+            },
+            {
+                "id": "1320305082",
+                "name": "No Way Out(无路可逃)",
+                "singer": "Zcom_redhose",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320305082&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320305082&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320305082&key=579621905"
+            },
+            {
+                "id": "1320328109",
+                "name": "Aspirin",
+                "singer": "Aspirin",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320328109&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320328109&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320328109&key=579621905"
+            },
+            {
+                "id": "1320160174",
+                "name": "Something Pure（纯洁物质）",
+                "singer": "Jammin翁梓铭",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320160174&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320160174&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320160174&key=579621905"
+            },
+            {
+                "id": "1319992714",
+                "name": "寻麓",
+                "singer": "Jiaye",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1319992714&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1319992714&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1319992714&key=579621905"
+            },
+            {
+                "id": "1320106227",
+                "name": "Ancient",
+                "singer": "Chauncey",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1320106227&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1320106227&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1320106227&key=579621905"
+            },
+            {
+                "id": "1318879272",
+                "name": "Never Give Up",
+                "singer": "岛上",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318879272&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318879272&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318879272&key=579621905"
+            },
+            {
+                "id": "1318834835",
+                "name": "二珂-孤独她呀（AREYA REMIX）（Areya张雅婷 / 曾婕Joey.Z remix）",
+                "singer": "Areya张雅婷",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318834835&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318834835&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318834835&key=579621905"
+            },
+            {
+                "id": "1318332020",
+                "name": "23:00",
+                "singer": "Three Yes",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318332020&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318332020&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318332020&key=579621905"
+            },
+            {
+                "id": "1302078251",
+                "name": "Yangtze",
+                "singer": "Y-O-16",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1302078251&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1302078251&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1302078251&key=579621905"
+            },
+            {
+                "id": "1318844592",
+                "name": "烟火",
+                "singer": "SUAI",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318844592&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318844592&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318844592&key=579621905"
+            },
+            {
+                "id": "1318796478",
+                "name": "All For You",
+                "singer": "Depth 4",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318796478&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318796478&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318796478&key=579621905"
+            },
+            {
+                "id": "1318582847",
+                "name": "Come On (Original Mix)",
+                "singer": "Sankat",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318582847&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318582847&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318582847&key=579621905"
+            },
+            {
+                "id": "1318665676",
+                "name": "Sarangi",
+                "singer": "Toby Davis",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318665676&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318665676&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318665676&key=579621905"
+            },
+            {
+                "id": "1318678560",
+                "name": "China-中国魂",
+                "singer": "Sand",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318678560&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318678560&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318678560&key=579621905"
+            },
+            {
+                "id": "1318548544",
+                "name": "Master",
+                "singer": "MogriS",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318548544&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318548544&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318548544&key=579621905"
+            },
+            {
+                "id": "1318429556",
+                "name": "DRAGONS",
+                "singer": "SHEKINAH",
+                "pic": "http://api.bzqll.com/music/netease/pic?id=1318429556&key=579621905",
+                "lrc": "http://api.bzqll.com/music/netease/lrc?id=1318429556&key=579621905",
+                "url": "http://api.bzqll.com/music/netease/url?id=1318429556&key=579621905"
+            }
+        ]
+    }
+}

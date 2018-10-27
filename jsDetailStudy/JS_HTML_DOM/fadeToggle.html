@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>faleToggle</title>
+    <style type="text/css" rel="stylesheet">
+      div{
+          width: 100px;
+          height: 100px;
+          margin: 20px;
+          position: relative;
+          float: left;
+      }
+        .red{
+            background-color: red;
+        }
+        .blue{
+            background-color: blue;
+        }
+        .green{
+            background-color: green;
+        }
+    </style>
+</head>
+<body>
+        <script src="../jquery-3.3.1.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+               $(".change").click(function () {
+                  $(".red").fadeToggle();
+                  $(".green").fadeToggle("slow");
+                  $(".blue").fadeToggle(1000);
+               });
+            });
+        </script>
+            <div class="red"></div>
+            <div class="green"></div>
+            <div class="blue"></div>
+        <button type="button" class="change">切换</button>
+</body>
+</html>

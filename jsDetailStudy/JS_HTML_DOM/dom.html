@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM学习</title>
+</head>
+<body>
+    <p id="demo">你好</p>
+    <script>
+        document.write(document.getElementById("demo").innerHTML);
+    </script>
+    <h1 onclick="this.innerHTML='谢谢'">请点击这里</h1>
+    <script>
+        function changetext(id) {
+            id.innerHTML="thanks";
+        }
+        function time(){
+            document.getElementById("time").innerHTML=Date();;
+        }
+    </script>
+    <h2 onclick="changetext(this)">please click</h2>
+    <button onclick="time()">点击这里</button>
+<p id="time"></p>
+<script>
+</script>
+</body>
+</html>
