@@ -1,0 +1,27 @@
+.music_player {
+    width: 100%;
+    height: 50px;
+    background-color: snow;
+    position: fixed;
+    bottom: 0;
+}
+.picture{
+    width: 100%;
+    height: 100%px;
+}
+.music_picture{
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 400px;
+    height: 600px;
+    position: relative;
+    float: left;
+}
+.music_lyrics{
+    margin-left: 2%;
+    margin-top: 3%;
+    width: 400px;
+    position: relative;
+    float: left;
+}
+

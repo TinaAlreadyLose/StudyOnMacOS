@@ -6,14 +6,14 @@ $(document).ready(function () {
      */
     $.ajax({
         type:"GET",
-        url:"API/music.163.com/网易云热歌榜_18.10.27.json",
+        url:"../API/music.163.com/网易云YY音乐榜_18.10.27.json",
         dataType:"json",
         async:false,/*调整为同步请求*/
         success:function (Data) {
             var jsonData = JSON.stringify(Data);// 转成JSON格式
             var result = $.parseJSON(jsonData);// 转成JSON对象
             if(Data) {
-               // alert("调用成功: "+result.result)
+                //alert("调用成功: "+result.result)
                 data=result;
             }
         }
@@ -39,8 +39,8 @@ $(document).ready(function () {
         $("#demo").append(pic);
         $("#demo").append(name);
         $('#demo').append(singer);
-       var div_pic="<img class='div_pic'src='"+song.pic+"' rel='"+song.name+"'/>";
-        var div_name="<a class='div_name' href='datilHTML/music_player.html?id="+song.id+"' target='_blank'><h3>"+song.name+"</h3></a>";
+        var div_pic="<img class='div_pic'src='"+song.pic+"' rel='"+song.name+"'/>";
+        var div_name="<a class='div_name' href='../datilHTML/music_player.html?id="+song.id+"' target='_blank'><h3>"+song.name+"</h3></a>";
         var div_singer="<h3 class='div_singer'>"+song.singer+"</h3>";
         $("#pic").append(div_pic);
         $("#name").append(div_name);
