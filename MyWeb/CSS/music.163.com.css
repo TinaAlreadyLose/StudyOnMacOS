@@ -13,7 +13,7 @@ a:visited{
 .main{
     /*网页主题宽度*/
     margin: auto;
-    width: 1500px;
+    width: 1000px;
 }
 .left_float{
     width: 30%;
@@ -24,8 +24,9 @@ a:visited{
     /*切换各种排行榜的tab_bar*/
     /*固定不动*/
     margin: auto;
-    width: 24%;
-    position: fixed;
+    width: 30%;
+    position: relative;
+    float: left;
     background-color: snow;
 }
 .tab_bar{
@@ -38,7 +39,7 @@ a:visited{
     /*上下滑动*/
     /*右侧的整体布局*/
     margin: auto;
-    width: 69%;
+    width: 70%;
     position: relative;
     float: right;
     background-color: lightgray;

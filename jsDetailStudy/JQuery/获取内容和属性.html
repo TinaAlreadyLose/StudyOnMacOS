@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" >
+        $(document).ready(function () {
+            $(".one").click(function () {
+                alert("text: "+$(".name").text());
+            });
+            $(".two").click(function () {
+                alert("html:"+$(".name").html());
+            });
+        });
+    </script>
+</head>
+<body>
+    <p class="name">this is a test where was <b>B</b></p>
+    <button class="one">显示文本</button>
+    <button class="two"type="button">显示html</button>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>stop</title>
+    <style type="text/css" rel="stylesheet">
+        .demo{
+            width: 200px;
+            height: auto;
+            background-color: green;
+            color:red;
+            display: none;
+        }
+    </style>
+    <script src="../jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" rel="stylesheet">
+        $(document).ready(function () {
+            $(".click").click(function(){
+                $(".demo").stop();
+            });
+            $(".slide").click(function () {
+                $(".demo").slideDown(5000);
+            });
+        });
+    </script>
+</head>
+<body>
+        <button class="click" type="button">stop</button>
+        <div class="slide">clic me</div>
+        <div class="demo">this is a demo that I used to test my web project<br>
+            this is a demo that I used to test my web project<br>
+            this is a demo that I used to test my web project<br>
+            this is a demo that I used to test my web project<br>
+            this is a demo that I used to test my web project<br>
+            this is a demo that I used to test my web project<br></div>
+</body>
+</html>

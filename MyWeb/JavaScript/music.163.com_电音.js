@@ -7,7 +7,7 @@ $(document).ready(function () {
     $.ajax({
         type:"GET",
        /* url:"../API/music.163.com/网易云电音榜_18.10.27.json",*/
-        url:"http://api.bzqll.com/music/netease/songList?key=579621905&id=1978921795",
+        url:"https://api.bzqll.com/music/netease/songList?key=579621905&id=1978921795",
         dataType:"json",
         async:false,/*调整为同步请求*/
         success:function (Data) {

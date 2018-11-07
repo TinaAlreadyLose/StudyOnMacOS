@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css" rel="stylesheet">
+        #move{
+            background-color: aqua;
+            height: 100px;
+            width: 100px;
+            position: absolute;
+        }
+    </style>
+    <script src="../jquery-3.3.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".click").click(function () {
+                $("#move").animate({
+                    left:'100px',
+                    opacity:'0.5',
+                    height:'200px',
+                    width:'200px'
+                   /*height:'toggle'*/
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+
+    <button class="click" type="button">move</button>
+    <div id="move">p</div>
+</body>
+</html>

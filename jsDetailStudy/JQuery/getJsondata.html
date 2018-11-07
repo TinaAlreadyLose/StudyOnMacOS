@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../jquery-3.3.1.min.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            var data=undefined;
+            $.ajax({
+                type:"GET",
+                url:"../网易云热歌榜_18.10.27.json",
+                dataType:"json",
+                async:false,/*调整为同步请求*/
+                success:function (Data) {
+                    var jsonData = JSON.stringify(Data);// 转成JSON格式
+                    var result = $.parseJSON(jsonData);// 转成JSON对象
+                    if(Data) {
+                        alert("调用成功: "+result.result)
+                        data=result;
+                    }
+                }
+            });
+          function init(song) {
+              var image="<img src='"+song.pic+"'/>'";
+              $("#list").append(image);
+          }
+
+          if(data){
+              init(data.data.songs[0]);
+          }
+        });
+    </script>
+</head>
+<body>
+    <div id="list"></div>
+</body>
+</html>
