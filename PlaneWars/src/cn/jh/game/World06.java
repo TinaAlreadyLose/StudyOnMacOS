@@ -243,6 +243,7 @@ public class  World06 extends JPanel {
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jFrame.setSize(WIDTH,HEIGHT);
         jFrame.setLocationRelativeTo(null);
+        jFrame.setResizable(false);
         jFrame.setVisible(true);
 
         world06.action();
