@@ -1,0 +1,33 @@
+body{
+ text-align: center;
+}
+.Web{
+    margin: auto;
+    margin-bottom: 20px;
+    height: 300px;
+    width: 1000px;
+    overflow: hidden;//取消子类浮动对父类的影响
+
+}
+.image{
+    height: 100%;
+    width: 30%;
+    position: relative;
+    float: left;
+}
+.text{
+    height: 100%;
+    width: 70%;
+    position: relative;
+    float: left;
+}
+.title{
+    height: 20%;
+    width: 100%;
+}
+.describe{
+    width: 100%;
+    height: 80%;
+    text-align: left;
+    padding-left: 10%;
+}

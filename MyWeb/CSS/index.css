@@ -1,8 +1,10 @@
 body{
     text-align: center;
+    background:url("../image/login.jpg") top center no-repeat;
+    background-size:cover;
 }
+
 .login{
     margin: auto;
     margin: 15%;
-    background-color: blue;
 }

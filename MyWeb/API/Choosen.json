@@ -1,0 +1,27 @@
+{
+    "result":"SUCCESS",
+    "data":{
+        "id":1,
+        "name":"个人网站登入导航界面",
+        "backgroundPic":"../image/login.png",
+        "describe":"把所有的数据放在这里，以后用着省心",
+        "Webs":[
+            {
+                "id":1,
+                "title":"个人Blog(Html+CSS)",
+                "author":"Green Dan",
+                "url":"../blog.html",
+                "img":"../image/blog.png",
+                "describe":"最近一直在学习后端，顺手还装了一个unix-like系统(Hackintosh)，四五个月没写前端了，接这个机会复习一下前段基础知识，顺便把之前的hackintosh复习一下.顺便就把作业完成一下实乃一举数得"
+            },
+            {
+                "id":2,
+                "title":"仿网易云(Html+Css+JQuery)",
+                "author":"Green Dan",
+                "url":"../music.163.com.html",
+                "img":"../image/music.png",
+                "describe":"一年一度的英雄联盟全球总决赛又开始了，拳头的总决赛开场曲真牛逼(与其说他是游戏公司更像是一个音乐公司)，想把MV下载下来吧，不给小马哥充钱，就得去盗版网站(实在是懒得找)，就在github上搜了搜音乐API这几个字，没想到我天朝公民竟如此牛逼，直接在github找到了大佬，并在其QQ群里学习，顺便了解了一下JQuery——js的框架(貌似没有见到多少——字符串+变量混在一起贼jb。。。。)"
+            }
+        ]
+    }
+}

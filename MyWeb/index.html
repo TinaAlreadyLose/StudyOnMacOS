@@ -5,14 +5,23 @@
     <title>Welcome</title>
     <link href="CSS/index.css" type="text/css" rel="stylesheet">
     <link rel="Shortcut Icon" href="image/豪字.png"/><!--修改标题栏里的图片-->
+    <script type="text/javascript" src="JavaScript/index.js"></script>
 </head>
 <body>
     <div class="login">
-        <h1>Welcome to my WEB</h1>
+        <h1>Welcome to my WEB</h1><br>
         <form action="#" method="post" class="form">
-            <h2><label>UserName：<input type="text" name="username" id="username"></label><br></h2>
-            <h2><label>PassWord：<input type="password" name="password" id="password"></label><br></h2>
-            <h1><input type="submit"value="登入"></h1>
+            <div class="input_box">
+                <h2><label>UserName：<input type="text" name="username" id="username"></label><br></h2>
+            </div>
+            <div class="input_box">
+                <h2><label>PassWord：<input type="password" name="password" id="password"></label><br></h2>
+            </div>
+
+             <div class="error_box"id="error_box"><br></div>
+            <div class="input_box">
+                <h1><input type="submit"value="登入" onclick="login()"></h1>
+            </div>
         </form>
     </div>
 </body>
