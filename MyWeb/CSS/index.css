@@ -8,3 +8,15 @@ body{
     margin: auto;
     margin: 15%;
 }
+.username{
+    height: 30px;
+    width: 200px;
+}
+.password{
+    height: 30px;
+    width: 200px;
+}
+.click_login{
+    height: 30px;
+    width: 40px;
+}

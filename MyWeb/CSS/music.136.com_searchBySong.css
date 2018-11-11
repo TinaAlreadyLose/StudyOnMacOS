@@ -1,0 +1,38 @@
+.song{
+    margin: auto;
+    width: 80%;
+    height: 70px;
+    overflow: hidden;
+    background: lightcoral;
+    margin-bottom: 10px;
+}
+.pic{
+    width: 15%;
+    height: 100%;
+    margin-left: 10%;
+    background: lightslategray;
+    position: relative;
+    float: left;
+}
+.name{
+    width: 40%;
+    height: 100%;
+    margin-left: 5%;
+    background: aqua;
+    position:relative;
+    float: left;
+    text-align: center;
+}
+.singer{
+    width: 20%;
+    height: 100%;
+    margin-left: 5%;
+    background: darkseagreen;
+    position: relative;
+    float: left;
+    text-align: center;
+}
+.truly_pic{
+    width: 100%;
+    height: 100%;
+}

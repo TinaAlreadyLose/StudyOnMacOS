@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background: lightgray;
+}
+.main{
+    margin: auto;
+    width: 800px;
+}
+.tab_bar{
+    margin: auto;
+}
+.top_a{
+    font-size: large;
+    margin-right: 20px;
+    background: lightpink;
+}
+.container {
+    margin: auto;
+    overflow: hidden;
+    justify-content: center; /*子元素水平居中*/
+    align-items: center; /*子元素垂直居中*/
+    display: -webkit-flex;
+    margin-bottom: 20px;
+}
+.search {
+    width: 400px;
+    height: 40px;
+    border-radius: 18px;
+    border: 1px solid #ccc;
+    padding-left: 20px;
+    position: relative;
+    float: left;
+}
+.btn {
+    height: 35px;
+    width: 35px;
+    position: relative;
+    float: left;
+    background: url("../image/search.png") no-repeat;
+    background-size: 100%;
+    top: 3px;
+    left: -40px;
+    border: none;
+}
+.result_width{
+    margin: auto;
+    width: 80%;
+    border: 3px groove gray;
+    background: white;
+}
