@@ -1,6 +1,7 @@
 $(document).ready(function () {
    $("#click").click(function () {
        var search=$("#search").val();
+        $("#refer").hide();
       //alert(search);
        if(search){
            $.ajax({
@@ -30,8 +31,12 @@ $(document).ready(function () {
                         $("#name").append(truly_name);
                         $("#singer").append(truly_singer);
                     }
-                        for(var i=data.length-1.;i>0;i--)
-                            init(data[i]);
+		
+			//循环打印	
+			for(var i=data.length-1.;i>=0;i--)
+                        	init(data[i]);
+				//init(data[1]);
+			    //init(data[0]);
 
 
 
