@@ -1,0 +1,1 @@
+JavaScript是一种脚本语言，它由LiveScript改名而来，可能是为了更好地推广这个脚本语言（利用Java语言的知名度），因此NetScape公司在最后一刻决定将它改名为JavaScript，但其实与Java没有什么关系。JavaScript是一种基于客户端浏览器的，基于对象、事件驱动式的脚本语言。JavaScript也具有跨平台的特点。任何语言都离不开数据类型，虽然Javascript语言是弱类型语言，它仍旧提供了5个基本数据类型和3个复合类型，分别是什么。

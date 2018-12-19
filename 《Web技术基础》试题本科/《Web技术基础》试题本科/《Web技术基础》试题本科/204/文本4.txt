@@ -1,0 +1,1 @@
+Web技术基础主要有三部分内容：HTML、CSS和JavaScript脚本语言。JavaScript是一种基于客户端浏览器的，基于对象、事件驱动式的脚本语言，用于对网页内容进行编程控制。JavaScript扩展了Web Page的功能，使得网页可能拥有丰富多彩的动画和用户交互。JavaScript可概括为两部分内容，一部分为JavaScript语言的语法，另一部分为浏览在解析网页时生成DOM树数据结构。JavaScrpt在语法上基本类似于C语言和Java语言，主要有数据类型和变量声明、运算符和表达式、语句和流程控制、函数和内置对象等。请至少写出4个JavaScript中常用的内置对象。

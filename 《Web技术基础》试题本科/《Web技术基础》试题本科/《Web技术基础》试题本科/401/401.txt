@@ -1,0 +1,6 @@
+4.JavaScript函数。共30分。
+新建页面page3.html，要求采用第1题的布局，在内容区域添加如下内容，效果图如webdesign4-1.png所示：
+（1）定义JavaScript的Student类，设计2个实例属性studentID和name，其值由传递的参数提供，2个类属性school和location，其值分别为“临沂大学”和“临沂市双岭路”。
+（2）以自己的学号和姓名为参数定义实例student1。
+（3）在中间内容区域中用for in循环显示student1对象和Student对象所有的属性及其值。
+（4）用prototype属性扩展Student类，增加display方法，显示Student的所有属性值，包括实例属性和静态属性。使用student1对象调用display方法，显示效果如图webdesign4-1.png所示。
